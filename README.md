@@ -8,6 +8,8 @@
 2. docsify serve ROOT
 3. 浏览器访问http://localhost:3000/
 
+视频教程[https://b23.tv/LvUVGNp](https://b23.tv/LvUVGNp)
+
 #### 提交代码
 
 
