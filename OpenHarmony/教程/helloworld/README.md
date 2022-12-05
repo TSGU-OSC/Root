@@ -9,7 +9,7 @@ struct Index {
     Row() {
       Column() {
         Text(this.message)
-          .fontSize(45)
+          .fontSize(50)
           .fontWeight(FontWeight.Bold)
       }
       .width('100%')
