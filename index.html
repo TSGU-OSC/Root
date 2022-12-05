@@ -2,21 +2,155 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>开放原子开源社团</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="assets/css/theme-simple.css">
+  <link rel="stylesheet" href="assets/css/gif-control.css">
+  <style>
+    :root {
+    /* Tab blocks */
+    --docsifytabs-border-color          : #ededed;
+    --docsifytabs-border-px             : 1px;
+    --docsifytabs-border-radius-px      : ;
+    --docsifytabs-margin                : 1.5em 0;
+
+    /* Tabs */
+    --docsifytabs-tab-background        : #f8f8f8;
+    --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
+    --docsifytabs-tab-color             : #999;
+    --docsifytabs-tab-color--active     : inherit;
+    --docsifytabs-tab-highlight-px      : 3px;
+    --docsifytabs-tab-highlight-color   : var(--theme-color, currentColor);
+    --docsifytabs-tab-padding           : 0.6em 1em;
+
+    /* Tab content */
+    --docsifytabs-content-background    : inherit;
+    --docsifytabs-content-padding       : 1.5rem;
+
+  }
+  .tab-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(35%, -45%);
+    padding: 0.25em 0.35em;
+    border-radius: 3px;
+    background: red;
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+  }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      name: '',
-      repo: ''
+  window.$docsify = {
+    
+    name: '开放原子开源社团',
+    nameLink: '/',
+    repo: '',
+    alias: {
+    
+    },
+    nativeEmoji: true,
+    subMaxLevel: 2,
+    //loadNavbar: true,
+    loadSidebar: true,
+    autoHeader: true,
+    topMargin: 90, // default: 0
+    auto2top:true,
+    search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto', // or 'auto'or[]
+      placeholder: 'Type to search',
+      placeholder: {
+      '/en-GB/': 'Type to search',
+      '/': '搜索',
+    },
+    noData: 'No Results!',
+    noData: {
+      '/en-GB/': 'No Results',
+      '/': '找不到结果',
+    },
+    depth: 6,
+    hideOtherSidebarContent: false, 
+    namespace: 'website-1',
+    pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+    pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
+  },
+ 
+  //alert style
+  'flexible-alerts': {
+    note: {
+      label: {
+        '/en-GB/': 'Note',
+        '/': '笔记'
+      }
+    },
+    tip: {
+      label: {
+        '/en-GB/': 'Tip',
+        '/': '提示'
+      }
+    },
+    warning: {
+      label: {
+        '/en-GB/': 'Warning',
+        '/': '警告'
+      }
+    },
+    attention: {
+      label: {
+        '/en-GB/': 'Attention',
+        '/': '注意'
+      }
     }
+  },
+  //clipboard
+  copyCode: {
+    buttonText: {
+      '/en-GB/': 'Copy to clipboard',
+      '/'      : '点击复制'
+    },
+    errorText: {
+      '/en-GB/': 'Error',
+      '/'      : '错误'
+    },
+    successText: {
+      '/en-GB/': 'Copied',
+      '/'      : '已粘贴到剪切板'
+    }
+  },
+  tabs: {
+    persist    : true,      
+    sync       : true,      
+    theme      : 'classic', 
+    tabComments: true,      
+    tabHeadings: true       
+  },
+  pagination: {
+    previousText: '上一章节',
+    nextText: {
+      '/en/': 'NEXT',
+      '/': '下一章节'
+    },
+    crossChapter: true,
+    crossChapterText: true,
+  }
+}
+
   </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="assets/js/docsify.js"></script>
+  <script src="assets/js/emoji.min.js"></script>
+  <script src="assets/js/search.min.js"></script>
+  <script src="assets/js/alerts.js"></script>
+  <script src="assets/js/clipboard.js"></script>
+  <script src="assets/js/gifcontrol.js"></script>
+  <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/pagination.js"></script>
 </body>
 </html>
