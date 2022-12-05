@@ -15,7 +15,7 @@ struct Index {
           .fontWeight(FontWeight.Bold)
         Button() {
           Text('Next')
-            .fontSize(30)
+            .fontSize(25)
             .fontWeight(FontWeight.Bold)
         }
         .type(ButtonType.Capsule)
@@ -52,7 +52,7 @@ struct second{
           .fontWeight(FontWeight.Bold)
         Button(){
           Text('back')
-            .fontSize(30)
+            .fontSize(25)
             .fontWeight(FontWeight.Bold)
         }
         .type(ButtonType.Capsule)
