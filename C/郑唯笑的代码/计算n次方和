@@ -12,6 +12,7 @@ int main()
 		}
 		sum = sum + k;
 	}
-	printf("sumΪ%d", sum);
+	printf("sum is %d", sum);
+    printf("\n");
 	return 0;
 }
