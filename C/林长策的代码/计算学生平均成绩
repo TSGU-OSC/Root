@@ -1,0 +1,15 @@
+#include <stdio.h>
+#define num 10//修改学生数量
+int main()
+{   int a[num];
+    int i, sum = 0;
+	for ( i = 0; i < 10; i++)
+	{
+		printf("请输入第%d位同学的成绩\n",i+1);
+		scanf("%d",&a[i]);
+		sum=sum+a[i];
+	}
+	printf("学生平均分数%.2f\n",(double)sum/num);
+	
+	return 0;
+}
