@@ -3,7 +3,7 @@ int main()
 {
     int n;
     scanf("%d",&n);
-    int a[99][99]={};
+    int a[100][100]={};
     for(int i=0;i<n;i++)
     {
         a[i][0]=1;
