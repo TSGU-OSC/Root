@@ -7,5 +7,6 @@ int main()
 			for (c = 0; c <= 9; c++)
 				if (100 * a + 10 * b + c == a * a * a + b * b * b + c * c * c)
 					printf("水仙花数为%d ", 100 * a + 10 * b + c);
+                    printf("\n");
 					return 0;
 }
