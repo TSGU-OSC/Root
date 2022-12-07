@@ -2,17 +2,18 @@
 void main()
 {
 	int a;
-	printf("高考数学考多少？");
+	printf("高考数学考多少？\n");
 	scanf("%d",&a);
 	if(a>=0&&a<60)
-	printf("你多少有点菜");
+	printf("你多少有点菜\n");
 	else if(a>=60&&a<=90)
-	printf("也说得过去");
+	printf("也说得过去\n");
 	else if(a>90&&a<=120)
 	printf("厉害");
 	else if(a>120&&a<=149)
-	printf("太不是人了！");
-	else if(a=150)
-	printf("搞笑呢，考150的人能来看我的代码？？");
+	printf("太不是人了!\n");
+	else if(a==150)
+	printf("搞笑呢，考150的人能来看我的代码？？\n");
 	
+    
 }
