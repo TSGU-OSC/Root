@@ -1,0 +1,37 @@
+#include<stdio.h>
+int main()
+{
+	int a, b, c, d, e, f;
+	scanf("%d", &f);
+	a = f / 10000%10;
+	b = f / 1000%10;
+	c = f / 100%10;
+	d = f / 10%10;
+	e = f %10;
+	if (a != 0)
+	{
+		printf("输入数字是5位数,逆序为：%d%d%d%d%d\n", e, d, c, b, a);
+		printf("%d %d %d %d %d", a, b, c, d, e);
+	}
+	else if (b != 0)
+	{
+		printf("输入数字是4位数,逆序为：%d%d%d%d\n", e, d, c, b);
+		printf("%d %d %d %d", b, c, d, e);
+	}
+	else if (c != 0)
+	{
+		printf("输入数字是3位数,逆序为：%d%d%d\n", e, d, c);
+		printf("%d %d %d", c, d, e);
+	}
+	else if (d != 0)
+	{
+		printf("输入数字是2位数,逆序为：%d%d\n", e, d);
+		printf("%d %d", d, e);
+	}
+	else if (e != 0)
+	{
+		printf("输入数字是1位数,逆序为：%d\n", e);
+		printf("%d", e);
+	}
+	return 0;
+}
