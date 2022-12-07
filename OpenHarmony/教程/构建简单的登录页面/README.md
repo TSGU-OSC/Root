@@ -1,0 +1,55 @@
+@Entry
+@Component
+struct Index {
+  build() {
+    Column() {
+      Image('jpg')
+        .width(100)
+        .height(0)
+      Text('开放原子开源社团')
+        .fontSize(30)
+        .fontWeight(FontWeight.Bold)
+        .fontColor('#333333')
+        .fontStyle(FontStyle.Italic)
+        .textAlign(TextAlign.Center)
+      Text('中德应用技术大学')
+        .fontSize(20)
+        .fontWeight(FontWeight.Bold)
+        .fontColor('#666666')
+        .fontStyle(FontStyle.Italic)
+        .textAlign(TextAlign.Center)
+      TextInput({placeholder:'账号'})
+        .maxLength(10)
+        .type(InputType.Normal)
+      TextInput({placeholder:'密码'})
+        .maxLength(8)
+        .type(InputType.Password)
+      Row({space:100}){
+        Text('短信验证码登录')
+          .fontSize(15)
+          .fontColor('#3366FF')
+          .fontWeight(FontWeight.Normal)
+          .textAlign(TextAlign.Center)
+        Text('忘记密码')
+          .fontSize(15)
+          .fontColor('#3366FF')
+          .fontWeight(FontWeight.Normal)
+          .textAlign(TextAlign.Center)
+      }
+      .justifyContent(FlexAlign.SpaceAround)
+      .alignItems(VerticalAlign.Top)
+      Button('登录')
+        .fontSize(30)
+        .type(ButtonType.Capsule)
+      Text('其他方式登录')
+        .fontSize(15)
+        .fontColor('#3366FF')
+        .fontWeight(FontWeight.Normal)
+        .textAlign(TextAlign.Center)
+    }
+    .justifyContent(FlexAlign.SpaceEvenly)
+    .alignItems(HorizontalAlign.Center)
+    .width('100%')
+    .height('100%')
+  }
+}
