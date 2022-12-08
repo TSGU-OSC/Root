@@ -9,9 +9,23 @@ MindQuantum仓库地址:[gitee.com/mindspore/mindquantum](https://gitee.com/mind
 **简介**
 MindQuantum是基于昇思MindSpore开源深度学习框架和HiQ量子计算云平台开发的通用量子计算框架，支持多种量子神经网络的训练和推理。
 
-安装方法：
+win系统安装方法：
 1. 安装MindSpore
+> 小白注意(大佬忽略)，如果之前安装了python请全部卸掉，只安装一个版本即可，只要是防止小白装错地方又不会处理。
+
+安装MindSpore视频教程：[点击观看](https://www.bilibili.com/video/BV13e411P7tT/?share_source=copy_web&vd_source=5cce33ff95191f8ec5e6ea0eb4f41f15)
+
+
 2. 安装MindQuantum
+- 确保MinGW-W64和CMake的版本>= 3.18.3,并将他们添加到path上
 
-试运行量子计算程序：
 
+- 安装了protobuf,没装的去[官网](https://github.com/protocolbuffers/protobuf/releases/)下，装完添加到path上
+
+  在黑框输入pip install mindquantum
+
+### 使用
+
+在桌面新建一个text.py文件试运行量子计算程序：
+
+![程序](img/%E6%B5%8B%E8%AF%95.png)
