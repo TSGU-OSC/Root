@@ -28,4 +28,27 @@ win系统安装方法：
 
 在桌面新建一个text.py文件试运行量子计算程序：
 
+
+```
+from mindquantum import *
+import numpy as np
+
+encoder = Circuit().h(0).rx({'a0': 2}, 0).ry('a1', 1)
+print(encoder)
+print(encoder.get_qs(pr={'a0': np.pi / 2, 'a1': np.pi / 2}, ket=True))
+```
+
+你将得到
+
+```
+q0: ────H───────RX(2*a0)──
+
+q1: ──RY(a1)──────────────
+
+-1/2j¦00⟩
+-1/2j¦01⟩
+-1/2j¦10⟩
+-1/2j¦11⟩
+```
+
 ![程序](img/%E6%B5%8B%E8%AF%95.png)
