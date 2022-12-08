@@ -1,0 +1,26 @@
+//输入你要输入数据的数量和数据，从到大到小排列的数据
+#include <stdio.h>
+int main()
+{ int a[1000],n,max,i,t,j;
+	printf("请输入你要输入数据的数量\n");
+	scanf("%d",&n);
+	printf("请输入你要输入的数据\n");
+	for(i=0;i<n;i++)
+	scanf("%d",&a[i]);		
+	for(j=0;j<n;j++)
+{ 
+	max=a[j];
+	for(i=n-1;i>j;i--)
+	if(max<a[i])
+{
+	max=a[i];
+{ 
+    t=a[i];a[i]=a[j];a[j]=t;
+}
+}
+}
+printf("你的数据已成功倒排\n");
+	for(i=0;i<n;i++)
+	printf("%d ",a[i]);
+    printf("\n");	   
+}
