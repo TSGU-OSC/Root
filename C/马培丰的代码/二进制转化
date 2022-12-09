@@ -1,0 +1,17 @@
+#include "stdio.h"
+
+void fun(int x)
+{
+   if(x!=0)
+    {
+      fun(x/2); 
+      printf("%d",x%2);
+    }
+}
+void main()
+{
+    int x;
+    printf("输入一个十进制数儿，我给你把它转化成二进制的");
+    scanf("%d",&x);    
+    fun(x);
+}
