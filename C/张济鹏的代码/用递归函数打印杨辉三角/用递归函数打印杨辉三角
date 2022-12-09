@@ -1,0 +1,32 @@
+//用递归函数打印杨辉三角
+#include<stdio.h>
+int main()
+{
+	int mypow(int i,int j);
+	int g,i=0,j=0,n;
+	scanf("%d",&n);
+	for(i=1;i<=n;i++)
+	{
+	for(j=1;j<=i;j++)
+	{
+		printf("%d",mypow(i,j));
+		printf(" ");
+		if(i==j)
+		{
+			printf("\n");
+		}
+	}
+	}
+	return 0;
+}
+int mypow(int i,int j)
+{
+	int t;
+	if(j==1||j==i)
+	{
+		return 1;
+	}
+	else 
+	t=mypow(i-1,j-1)+mypow(i-1,j);
+	return t;
+}
