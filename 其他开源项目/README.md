@@ -151,7 +151,13 @@
 
 | 项目名| 描述 |其他详情 |
 | :----- | :----: |:----: |
-| [BossSensor](https://github.com/Hironsan/BossSensor) | 通过AI人脸识别，老板来了就切换桌面。 |![](https://img.shields.io/github/stars/Hironsan/BossSensorstyle=social) |
+| [BossSensor](https://github.com/Hironsan/BossSensor) | 通过AI人脸识别，老板来了就切换桌面。 |![](https://img.shields.io/github/stars/Hironsan/BossSensor?style=social) |
 | [ratel](https://gitee.com/ainilili/ratel) | 在命令行中玩斗地主 |<a href='https://gitee.com/Jack__Lau/Root/stargazers'><img src='https://gitee.com/ainilili/ratel/badge/star.svg?theme=white' alt='star'></img></a>|
-| :----- | :----: |:----: |
-| :----- | :----: |:----: |
+| [VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) | 用 VSCode 看知乎 |![](https://img.shields.io/github/stars/niudai/VSCode-Zhihu?style=social) |
+| [glance](https://github.com/TimothyYe/glance) | 用命令行看小说 |![](https://img.shields.io/github/stars/TimothyYe/glance?style=social) |
+| [play](https://github.com/a8m/play) | 在命令行玩俄罗斯方块 |![](https://img.shields.io/github/stars/a8m/play?style=social) |
+| [ratel](https://gitee.com/ainilili/ratel) | 在命令行玩斗地主 |![](https://img.shields.io/github/stars/ainilili/ratel?style=social) |
+| [Thief](https://github.com/cteamx/Thief) | 跨平台 支持 Win + Mac + Linux，不仅仅支持 小说摸鱼 ，还支持 股票、网页、视频、直播、PDF 等摸鱼模式 |![](https://img.shields.io/github/stars/cteamx/Thief?style=social) |
+| [intellij-media-player](https://github.com/wuyr/intellij-media-player) | 在编辑器intellij里看电影 |![](https://img.shields.io/github/stars/wuyr/intellij-media-player?style=social) |
+| [ResnetGPT](https://github.com/FengQuanLi/ResnetGPT) | 教你训练一个模型，让人工智能玩王者荣耀。 |![](https://img.shields.io/github/stars/FengQuanLi/ResnetGPT?style=social) |
+| [crossover](https://github.com/lacymorrow/crossover) | FPS 游戏中，狙是没有准星的。使用这个开源项目可以在你屏幕上显示一个准星，堪称物理外挂。 |![](https://img.shields.io/github/stars/lacymorrow/crossover?style=social) |
