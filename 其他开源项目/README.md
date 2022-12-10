@@ -2,7 +2,7 @@
 
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
-| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social|
+| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|
 
 
 ### 图形绘制
