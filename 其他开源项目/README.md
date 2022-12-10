@@ -10,10 +10,10 @@
 | 项目名| 系统要求| 描述 | 其他详情 |
 | :-----| ----: | :----: | :----: |
 | [fabric.js](http://fabricjs.com/)🎈🎈[在线演示](http://fabricjs.com/demos/)| ----: | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
-| [darkroomjs](https://github.com/MattKetmo/darkroomjs)🎈🎈[在线演示](https://pqina.nl/pintura/?affiliate_id=854594675)| ----: | 浏览器端可扩展的图像编辑工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/MattKetmo/darkroomjs?style=social) |
-| [:-----](https://github.com/nihaojob/vue-fabric-editor)| ----: | 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。 | ![GitHub Repo stars](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social) |
-| :-----| ----: | :----: | :----: |
-| :-----| ----: | :----: | :----: |
+| [darkroomjs](https://github.com/MattKetmo/darkroomjs)🎈🎈[在线演示](https://pqina.nl/pintura/?affiliate_id=854594675)| ----: | 基于fabric.js的浏览器端可扩展的图像编辑工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/MattKetmo/darkroomjs?style=social) |
+| [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)🎈🎈[在线演示](https://nihaojob.github.io/vue-fabric-editor/)| ----: | 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。 | ![GitHub Repo stars](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social) |
+| [react-design-editor](https://github.com/salgum1114/react-design-editor)🎈🎈[在线演示](https://salgum1114.github.io/react-design-editor/)| ----: | 基于React、Fabricjs的编辑设计工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) |
+| [myvision](https://github.com/OvidijusParsiunas/myvision)| ----: | 免费的在线图像注释工具，用于生成基于计算机视觉的 ML 训练数据 | ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social) |
 | :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
