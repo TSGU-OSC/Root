@@ -45,9 +45,8 @@
 
 
 
-### 图形绘制
-#### 图片编辑
-##### [fabric.js](https://github.com/fabricjs/fabric.js/)
+### 图片编辑
+#### [fabric.js](https://github.com/fabricjs/fabric.js/)
 | 项目名| 描述 | 其他详情 |
 | :----- | :----: | :----: |
 | [fabric.js](http://fabricjs.com/)♾️[在线演示](http://fabricjs.com/demos/) | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
@@ -56,7 +55,7 @@
 | [react-design-editor](https://github.com/salgum1114/react-design-editor)♾️[在线演示](https://salgum1114.github.io/react-design-editor/) | 基于React、Fabricjs的编辑设计工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) |
 | [myvision](https://github.com/OvidijusParsiunas/myvision) | 免费的在线图像注释工具，用于生成基于计算机视觉的 ML 训练数据 | ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social) |
 
-##### [konvajs](https://konvajs.org/)
+#### [konvajs](https://konvajs.org/)
 
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
@@ -64,7 +63,7 @@
 | [vue-konva](https://github.com/konvajs/vue-konva)| 基于Vue和konva绘制复杂canvas图形的JS库 | ![GitHub Repo stars](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) |
 | [react-proto](https://github.com/React-Proto/react-proto) | 为开发人员和设计人员的React原型工具应用 | ![GitHub Repo stars](https://img.shields.io/github/stars/React-Proto/react-proto?style=social) |
 
-#### 截图与海报
+### 截图与海报
 | 项目名| 描述 |其他详情 |
 | :----- | :----: |:----: |
 | [html2canvas](https://github.com/niklasvh/html2canvas/)♾️[在线演示](https://html2canvas.hertzen.com/)| JS截图插件 |![GitHub Repo stars](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) |
@@ -84,6 +83,20 @@
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 | [OBS Studio](https://obsproject.com/)| Win/Mac/Linux | 视频录制和实时直播软件，支持直播时实时推送到B站、抖音、斗鱼、快手等几乎所有的直播平台上。支持中文 |![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+
+### 电子表格
+
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [handsontable](https://github.com/handsontable/handsontable)♾️[在线演示](https://handsontable.com/demo)| 带电子表格的数据网格，可以在React、Ng、Vue中使用 |![GitHub Repo stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social) |
+| [x-spreadsheet](https://github.com/myliang/x-spreadsheet)♾️[在线演示](https://handsontable.com/demo)| 基于webJavaScript(canvas)Excel表格 |![GitHub Repo stars](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) |
+| [Luckysheet](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md)♾️[在线演示](https://mengshukeji.github.io/LuckysheetDemo/)| :----: |![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) |
+| [SlickGrid](https://github.com/mleibman/SlickGrid)♾️[在线演示](http://6pac.github.io/SlickGrid/examples/example4-model.html)| 极快的JavaScript网格/电子表格 |![GitHub Repo stars](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social) |
+| [Jspreadsheet CE](https://github.com/jspreadsheet/ce)♾️[在线演示](https://bossanova.uk/jspreadsheet/v4/examples)| 创建与其他软件兼容的web端交互式表格和电子表格 |![GitHub Repo stars](https://img.shields.io/github/stars/jspreadsheet/ce?style=social) |
+| [sheetsee.js](https://github.com/jlord/sheetsee.js)| 可视化谷歌Spreadsheet的数据 |![GitHub Repo stars](https://img.shields.io/github/stars/jlord/sheetsee.js?style=social) |
+| [cheetah-grid](https://github.com/future-architect/cheetah-grid)♾️[在线演示](https://future-architect.github.io/cheetah-grid/#/)| 最快的网络开源数据表 |![GitHub Repo stars](https://img.shields.io/github/stars/future-architect/cheetah-grid?style=social) |
+| [canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid)♾️[在线演示](https://canvas-datagrid.js.org/demo.html)| 基于Canvas的数据网格web组件。能够在单个画布元素上显示数百万连续的分层行和列，而无需分页或加载 |![GitHub Repo stars](https://img.shields.io/github/stars/TonyGermaneri/canvas-datagrid?style=social) |
+
 
 
 ### 其他
