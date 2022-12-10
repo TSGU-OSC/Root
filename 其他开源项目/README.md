@@ -128,10 +128,18 @@
 
 ### 其他
 
-| 项目名| 系统要求| 描述 |其他详情 |
-| :-----| ----: | :----: |:----: |
-| [书](https://github.com/mymmsc/books) | 有能上网的浏览器 | 有关或无关计算机的各种书,主要有c、python、go、java、Linux、ios、lua、人工智能、佛学、国学等书| ![GitHub Repo stars](https://img.shields.io/github/stars/mymmsc/books?style=social) |
-| [程序员做饭指南](https://github.com/Anduin2017/HowToCook)| 有能上网的浏览器 | 某程序员在家隔离，出不了门期间的杰作。 | ![GitHub Repo stars](https://img.shields.io/github/stars/Anduin2017/HowToCook?style=social) |
-| :-----| ----: | :----: |:----: |
-| :-----| ----: | :----: |:----: |
-| :-----| ----: | :----: |:----: |
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [书](https://github.com/mymmsc/books)  | 有关或无关计算机的各种书,主要有c、python、go、java、Linux、ios、lua、人工智能、佛学、国学等书| ![GitHub Repo stars](https://img.shields.io/github/stars/mymmsc/books?style=social) |
+| [程序员做饭指南](https://github.com/Anduin2017/HowToCook) | 某程序员在家隔离，出不了门期间的杰作。 | ![GitHub Repo stars](https://img.shields.io/github/stars/Anduin2017/HowToCook?style=social) |
+| [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) | 包含计算机学科各个方向，比如计算机基础操作系统、计算机网络。还有一些衍生学科，比如数学等等。 |![](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning?style=social) |
+| [大数据入门指南](https://github.com/heibaiying/BigData-Notes) | 包括 Hadoop、Hive、Spark、Flink 等热门大数据技术栈。 |![](https://img.shields.io/github/stars/heibaiying/BigData-Notes?style=social) |
+| [程序员延寿指南](github.com/geekan/HowToLiveLonger) | 这个指南可不是教给你如何制作长生不老药，而是科学的方法教你如何调理自己的身体。 |![](https://img.shields.io/github/stars/geekan/HowToLiveLonger?style=social) |
+| [程序员考公指南](https://github.com/coder2gwy/coder2gwy) | 如果想逃离大厂，进入体制内/教育编制/公务员行列的小伙伴看过来啦～ 这个开源指南适合你，这是三个大厂程序员亲身经历整理的上岸指南。 |![](https://img.shields.io/github/stars/coder2gwy/coder2gwy?style=social) |
+| [idea_seat](https://github.com/s-unscrupulous/idea_seat) | 程序员的女朋友开发的一款防猝死 IDEA 插件。 |![](https://img.shields.io/github/stars/s-unscrupulous/idea_seat?style=social) |
+| :----- | :----: |:----: |
+| :----- | :----: |:----: |
+| :----- | :----: |:----: |
+| :----- | :----: |:----: |
+| :----- | :----: |:----: |
+| :----- | :----: |:----: |
