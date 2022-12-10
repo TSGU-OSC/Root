@@ -62,6 +62,14 @@
 | [Excalibur](https://github.com/excaliburjs/Excalibur)♾️[演示](https://excaliburjs.com/samples/)| 使用TS编写的易于使用的2D H5游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social) |
 | [Sketchbook](https://github.com/swift502/Sketchbook)♾️[演示](https://jblaha.art/sketchbook/0.4/)| 基于three.js和cannon.js的3D游乐场 |![GitHub Repo stars](https://img.shields.io/github/stars/swift502/Sketchbook?style=social) |
 
+### 物理引擎
+| 项目名| 描述 |其他详情 |
+| :-----| :----: |:----: |
+| [matter-js](https://brm.io/matter-js/) [[在线演示](https://brm.io/matter-js/demo/#mixed)] | 用于web的2D刚体物理引擎|![](https://img.shields.io/github/stars/liabru/matter-js?style=social) |
+| [box2d.js](https://github.com/kripken/box2d.js) [[在线示例](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] | box2d.js是Box2D物理引擎的JS版本| ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) |
+| [p2.js](https://github.com/schteppe/p2.js) [[在线演示](http://schteppe.github.io/p2.js/demos/springs.html)] | JavaScript 2D 物理引擎库。| ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) |
+|[planck.js](https://github.com/shakiba/planck.js) [[在线演示](https://piqnt.com/planck.js/)] | 2D JS物理引擎 |![](https://img.shields.io/github/stars/shakiba/planck.js?style=social) |
+
 ### 开源游戏
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
