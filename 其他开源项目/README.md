@@ -11,6 +11,11 @@
 | :-----| ----: | :----: | :----: |
 | [fabric.js](http://fabricjs.com/)🎈🎈[在线演示](http://fabricjs.com/demos/)| ----: | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
 | [darkroomjs](https://github.com/MattKetmo/darkroomjs)🎈🎈[在线演示](https://pqina.nl/pintura/?affiliate_id=854594675)| ----: | 浏览器端可扩展的图像编辑工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/MattKetmo/darkroomjs?style=social) |
+| [:-----](https://github.com/nihaojob/vue-fabric-editor)| ----: | 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。 | ![GitHub Repo stars](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social) |
+| :-----| ----: | :----: | :----: |
+| :-----| ----: | :----: | :----: |
+| :-----| ----: | :----: | :----: |
+| :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
