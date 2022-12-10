@@ -137,9 +137,8 @@
 | [程序员延寿指南](github.com/geekan/HowToLiveLonger) | 这个指南可不是教给你如何制作长生不老药，而是科学的方法教你如何调理自己的身体。 |![](https://img.shields.io/github/stars/geekan/HowToLiveLonger?style=social) |
 | [程序员考公指南](https://github.com/coder2gwy/coder2gwy) | 如果想逃离大厂，进入体制内/教育编制/公务员行列的小伙伴看过来啦～ 这个开源指南适合你，这是三个大厂程序员亲身经历整理的上岸指南。 |![](https://img.shields.io/github/stars/coder2gwy/coder2gwy?style=social) |
 | [idea_seat](https://github.com/s-unscrupulous/idea_seat) | 程序员的女朋友开发的一款防猝死 IDEA 插件。 |![](https://img.shields.io/github/stars/s-unscrupulous/idea_seat?style=social) |
-| :----- | :----: |:----: |
-| :----- | :----: |:----: |
-| :----- | :----: |:----: |
+| [thefuck](https://github.com/nvbn/thefuck) | 敲错命令时大喊一声 fuck ，并输入 fuck 命令，刚刚键入的错误命令就会自动修正。 |![](https://img.shields.io/github/stars/nvbn/thefuck?style=social)  |
+| [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 这个 GitHub 项目，这个项目包含一系列技术网站列表，堪称全网最全技术网站索引。 |![](https://img.shields.io/github/stars/tuteng/Best-websites-a-programmer-should-visit-zh?style=social)  |
 | :----- | :----: |:----: |
 | :----- | :----: |:----: |
 | :----- | :----: |:----: |
