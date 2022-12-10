@@ -90,7 +90,7 @@
 | :----- | :----: |:----: |
 | [handsontable](https://github.com/handsontable/handsontable)♾️[演示](https://handsontable.com/demo)| 带电子表格的数据网格，可以在React、Ng、Vue中使用 |![GitHub Repo stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social) |
 | [x-spreadsheet](https://github.com/myliang/x-spreadsheet)♾️[演示](https://handsontable.com/demo)| 基于webJavaScript(canvas)Excel表格 |![GitHub Repo stars](https://img.shields.io/github/stars/myliang/x-spreadsheet?style=social) |
-| [Luckysheet](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md)♾️[演示](https://mengshukeji.github.io/LuckysheetDemo/)| :----: |![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) |
+| [Luckysheet](https://github.com/mengshukeji/Luckysheet/blob/master/README-zh.md)♾️[演示](https://mengshukeji.github.io/LuckysheetDemo/)| 在线电子表格，功能强大，配置简单，完全开源 |![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) |
 | [SlickGrid](https://github.com/mleibman/SlickGrid)♾️[演示](http://6pac.github.io/SlickGrid/examples/example4-model.html)| 极快的JavaScript网格/电子表格 |![GitHub Repo stars](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social) |
 | [Jspreadsheet CE](https://github.com/jspreadsheet/ce)♾️[演示](https://bossanova.uk/jspreadsheet/v4/examples)| 创建与其他软件兼容的web端交互式表格和电子表格 |![GitHub Repo stars](https://img.shields.io/github/stars/jspreadsheet/ce?style=social) |
 | [sheetsee.js](https://github.com/jlord/sheetsee.js)| 可视化谷歌Spreadsheet的数据 |![GitHub Repo stars](https://img.shields.io/github/stars/jlord/sheetsee.js?style=social) |
