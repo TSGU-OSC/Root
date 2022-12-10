@@ -46,7 +46,8 @@
 
 
 ### 图形绘制
-#### [fabric.js](https://github.com/fabricjs/fabric.js/)
+#### 图片编辑
+##### [fabric.js](https://github.com/fabricjs/fabric.js/)
 | 项目名| 描述 | 其他详情 |
 | :----- | :----: | :----: |
 | [fabric.js](http://fabricjs.com/)♾️[在线演示](http://fabricjs.com/demos/) | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
@@ -55,7 +56,7 @@
 | [react-design-editor](https://github.com/salgum1114/react-design-editor)♾️[在线演示](https://salgum1114.github.io/react-design-editor/) | 基于React、Fabricjs的编辑设计工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) |
 | [myvision](https://github.com/OvidijusParsiunas/myvision) | 免费的在线图像注释工具，用于生成基于计算机视觉的 ML 训练数据 | ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social) |
 
-#### [konvajs](https://konvajs.org/)
+##### [konvajs](https://konvajs.org/)
 
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
@@ -63,7 +64,7 @@
 | [vue-konva](https://github.com/konvajs/vue-konva)| 基于Vue和konva绘制复杂canvas图形的JS库 | ![GitHub Repo stars](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) |
 | [react-proto](https://github.com/React-Proto/react-proto) | 为开发人员和设计人员的React原型工具应用 | ![GitHub Repo stars](https://img.shields.io/github/stars/React-Proto/react-proto?style=social) |
 
-### 截图与海报
+#### 截图与海报
 | 项目名| 描述 |其他详情 |
 | :----- | :----: |:----: |
 | [html2canvas](https://github.com/niklasvh/html2canvas/)♾️[在线演示](https://html2canvas.hertzen.com/)| JS截图插件 |![GitHub Repo stars](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) |
