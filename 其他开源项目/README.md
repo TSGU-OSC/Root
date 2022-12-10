@@ -99,17 +99,15 @@
 | [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer)♾️[演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)| 微信小程序绘图助手，通过json生成分享朋友圈的图片 |![GitHub Repo stars](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) |
 | [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas)| 小程序海报组件-生成朋友圈分享海报并生成图片 |![GitHub Repo stars](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) |
 
-### 开源系统
 
-| 项目名| 系统要求| 描述 |其他详情 |
-| :-----| ----: | :----: |:----: |
 
 ### 音视频
 
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 | [OBS Studio](https://obsproject.com/)| Win/Mac/Linux | 视频录制和实时直播软件，支持直播时实时推送到B站、抖音、斗鱼、快手等几乎所有的直播平台上。支持中文 |![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
-| [canvid](https://github.com/gka/canvid)♾️[演示](https://gka.github.io/canvid/)| ----: | 在Canvas上播放短视频的零依赖JS库 |![GitHub Repo stars](https://img.shields.io/github/stars/gka/canvid?style=social) |
+| [canvid](https://github.com/gka/canvid)♾️[演示](https://gka.github.io/canvid/)| ----: | 在Canvas上播放短视频的零依赖JS库 |![](https://img.shields.io/github/stars/gka/canvid?style=social) |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)| ----: | 只需要你 5 秒钟的语音，就能生成你说出来的任何话。 |![](https://img.shields.io/github/stars/CorentinJ/Real-Time-Voice-Cloning?style=social) |
 
 ### 电子表格
 
