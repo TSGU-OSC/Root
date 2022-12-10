@@ -1,3 +1,13 @@
+### 二维码
+
+| 项目名| 描述 |其他详情 |
+| :-----| :----: |:----: |
+| [qrcodejs](https://github.com/davidshimjs/qrcodejs)| 基于JavaScript的跨浏览器二维码生成器 |![GitHub Repo stars](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) |
+| [wifi-card](https://github.com/bndw/wifi-card)♾️[演示](https://wificard.io/)| 扫一扫二维码连上wifi |![GitHub Repo stars](https://img.shields.io/github/stars/bndw/wifi-card?style=social) |
+| [qrious](https://github.com/neocotic/qrious)♾️[演示](https://github.com/neocotic/qrious#examples)| 使用Canvas生成二维码的纯JavaScript库 |![GitHub Repo stars](https://img.shields.io/github/stars/neocotic/qrious?style=social) |
+| [qrbtf](https://github.com/ciaochaos/qrbtf)♾️[演示](https://qrbtf.com/)| 艺术二维码生成器 |![GitHub Repo stars](https://img.shields.io/github/stars/ciaochaos/qrbtf?style=social) |
+
+
 ### VR/AR
 
 | 项目名| 描述 |其他详情 |
