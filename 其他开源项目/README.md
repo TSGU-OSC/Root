@@ -35,6 +35,32 @@
 | [phoria.js](https://github.com/kevinroast/phoria.js)♾️[演示](http://www.kevs3d.co.uk/dev/phoria/index.html)| 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android |![GitHub Repo stars](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) |
 | [isomer](https://github.com/jdan/isomer)♾️[演示](http://jdan.github.io/isomer/)| 基于HTML5 Canvas的简单等距图形库。 |![GitHub Repo stars](https://img.shields.io/github/stars/jdan/isomer?style=social) |
 
+### 游戏引擎
+#### [Phaser](https://github.com/photonstorm/phaser)
+| 项目名| 描述 |其他详情 |
+| :-----| :----: |:----: |
+| [Phaser](https://github.com/photonstorm/phaser)♾️[演示](https://phaser.io/examples)| 用于桌面和移动端H5游戏制作的2D游戏框架 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser?style=social) |
+| [games](https://github.com/channingbreeze/games)| 一个基于Phaser的小游戏集合 |![GitHub Repo stars](https://img.shields.io/github/stars/channingbreeze/games?style=social) |
+| [phaser-ce](https://github.com/photonstorm/phaser-ce)| 有趣、开源、快速且支持Canvas和WebGL渲染的H5 2D游戏框架 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) |
+| [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template)| Phaser3项目模板 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) |
+| [phaser3-examples](https://github.com/photonstorm/phaser3-examples)|  phaser3例子 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) |
+
+#### 其他
+| 项目名| 描述 |其他详情 |
+| :-----| :----: |:----: |
+| [pixijs](https://github.com/pixijs/pixijs)♾️[演示](https://www.goodboydigital.com/pixijs/storm/?base=pixijs&category=storm)| H5创建引擎，创建精美数字内容最快、最灵活的2D WebGL渲染器 |![GitHub Repo stars](https://img.shields.io/github/stars/pixijs/pixijs?style=social) |
+| [Babylon.js](https://github.com/BabylonJS/Babylon.js)♾️[演示](https://www.babylonjs.com/community/)| 功能强大、美观、简单、开源、封装友好的游戏渲染引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) |
+| [PlayCanvas](https://github.com/playcanvas/engine)♾️[演示](https://playcanvas.github.io/#/)| 使用H5和WebGL技术以及其他3D内容的开源游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/playcanvas/engine?style=social) |
+| [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md)♾️[演示](https://hiloteam.github.io/examples/index.html)| 阿里巴巴集团开发的跨平台HTML5游戏开发解决方案 |![GitHub Repo stars](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) |
+| [melonjs](https://melonjs.org/)♾️[演示](https://www.melongaming.com/)| 一个全新的轻量级javascript游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/melonjs/melonJS?style=social) |
+| [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine)♾️[演示](http://biz.turbulenz.com/samples)| 用于浏览器PC端和移动端模块化的3D/2D H5游戏框架 |![GitHub Repo stars](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) |
+| [LittleJS](https://github.com/KilledByAPixel/LittleJS)♾️[演示](https://killedbyapixel.github.io/LittleJS/examples/puzzle/)| 极小的js游戏引擎  |![GitHub Repo stars](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=social) |
+| [stage.js](https://github.com/shakiba/stage.js)♾️[演示](https://piqnt.com/stage.js/)| 用于游戏开发的2D HTML5渲染和布局引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/shakiba/stage.js?style=social) |
+| [cocos2d-js](https://github.com/cocos2d/cocos2d-js)♾️[演示](https://www.cocos.com/)| JS版本的cocos2d-x游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/cocos2d/cocos2d-js?style=social) |
+| [eva.js](https://github.com/eva-engine/eva.js)♾️[演示](https://eva.js.org/playground/#/resource)| 专注于开发互动游戏项目的前端游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/eva-engine/eva.js?style=social) |
+| [Excalibur](https://github.com/excaliburjs/Excalibur)♾️[演示](https://excaliburjs.com/samples/)| 使用TS编写的易于使用的2D H5游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social) |
+| [Sketchbook](https://github.com/swift502/Sketchbook)♾️[演示](https://jblaha.art/sketchbook/0.4/)| 基于three.js和cannon.js的3D游乐场 |![GitHub Repo stars](https://img.shields.io/github/stars/swift502/Sketchbook?style=social) |
+
 
 
 ### 智能识别
