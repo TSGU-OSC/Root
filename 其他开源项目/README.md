@@ -142,27 +142,32 @@
 
 
 ### 图表库
+
 #### [D3](https://github.com/d3/d3)
-  - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
-    - [awesome-d3](https://github.com/wbkd/awesome-d3) - D3非资源集合 ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
-    - [angular-charts](https://github.com/chinmaymk/angular-charts) - 基于D3创建Angular创建图表的指令库 ![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) ![](https://img.shields.io/github/forks/chinmaymk/angular-charts?style=social)
-    - [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] - 一个用d3.js编写的可重用图表库 ![](https://img.shields.io/github/stars/novus/nvd3?style=social) ![](https://img.shields.io/github/forks/novus/nvd3?style=social)
-    - [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] - 一个基于D3的可重用图表库 ![](https://img.shields.io/github/stars/c3js/c3?style=social) ![](https://img.shields.io/github/forks/c3js/c3?style=social)
-    - [dc.js](https://github.com/dc-js/dc.js) [[在线演示](http://dc-js.github.io/dc.js/)] - 基于D3使用corssfilter渲染的多维图表 ![](https://img.shields.io/github/stars/dc-js/dc.js?style=social) ![](https://img.shields.io/github/forks/dc-js/dc.js?style=social)
-    - [britecharts](https://britecharts.github.io/britecharts/) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] - 基于D3.js v5的客户端可重用图表库 ![](https://img.shields.io/github/stars/britecharts/britecharts?style=social) ![](https://img.shields.io/github/forks/britecharts/britecharts?style=social)
-    - [neo4jd3](https://github.com/eisman/neo4jd3) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] - 使用D3.js的Neo4j图形可视化。![](https://img.shields.io/github/stars/eisman/neo4jd3?style=social) ![](https://img.shields.io/github/forks/eisman/neo4jd3?style=social)
-    - [nivo](https://github.com/plouc/nivo) [[在线演示](https://nivo.rocks/components/)] - 基于React和D3提供了一套丰富的数据可视化组件 ![](https://img.shields.io/github/stars/plouc/nivo?style=social) ![](https://img.shields.io/github/forks/plouc/nivo?style=social)
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] | D3(或D3.js)是一个用于web标准可视化数据的JS库 |![](https://img.shields.io/github/stars/d3/d3?style=social) |
+| [awesome-d3](https://github.com/wbkd/awesome-d3) | D3非资源集合 |![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) |
+| [angular-charts](https://github.com/chinmaymk/angular-charts) | 基于D3创建Angular创建图表的指令库 |![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) |
+| [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] | 一个用d3.js编写的可重用图表库 |![](https://img.shields.io/github/stars/novus/nvd3?style=social) |
+| [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] | 一个基于D3的可重用图表库 |![](https://img.shields.io/github/stars/c3js/c3?style=social) |
+ | [dc.js](https://github.com/dc-js/dc.js) [[在线演示](http://dc-js.github.io/dc.js/)] |基于D3使用corssfilter渲染的多维图表 |![](https://img.shields.io/github/stars/dc-js/dc.js?style=social) |
+ | [britecharts](https://britecharts.github.io/britecharts/) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] | 基于D3.js v5的客户端可重用图表库 |![](https://img.shields.io/github/stars/britecharts/britecharts?style=social) |
+| [neo4jd3](https://github.com/eisman/neo4jd3) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] | 使用D3.js的Neo4j图形可视化。|![](https://img.shields.io/github/stars/eisman/neo4jd3?style=social) |
+ | [nivo](https://github.com/plouc/nivo) [[在线演示](https://nivo.rocks/components/)]| 基于React和D3提供了一套丰富的数据可视化组件 |![](https://img.shields.io/github/stars/plouc/nivo?style=social) |
 
 #### [echarts](https://github.com/apache/echarts)
 
-  - [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] - 一个强大的交互式图表和数据可视化库 ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/forks/apache/echarts?style=social)
-    - [v-charts](https://v-charts.js.org/#/) [[在线演示](https://codesandbox.io/s/z69myovqzx)] - 基于 Vue2.0 和 ECharts 封装的图表组件 ![](https://img.shields.io/github/stars/ElemeFE/v-charts?style=social) ![](https://img.shields.io/github/forks/ElemeFE/v-charts?style=social)
-    - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts (incubating) 的微信小程序版本 ![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) ![](https://img.shields.io/github/forks/ecomfe/echarts-for-weixin?style=social)
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] | 一个强大的交互式图表和数据可视化库 |![](https://img.shields.io/github/stars/apache/echarts?style=social) |
+| [v-charts](https://v-charts.js.org/#/) [[在线演示](https://codesandbox.io/s/z69myovqzx)] | 基于 Vue2.0 和 ECharts 封装的图表组件 |![](https://img.shields.io/github/stars/ElemeFE/v-charts?style=social) |
+| [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) | Apache ECharts (incubating) 的微信小程序版本 |![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) |
+| [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)]| 给开发和设计人员的简单而灵活的js图表 |![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) |
+ | [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] | 基于Chart.js的Vue图表组件 |![](https://img.shields.io/github/stars/apertureless/vue-chartjs?style=social) |
+ | [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] | 基于chart.js的React图表组件 |![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) |
+ | [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] | 基于Chart.js的AngularJS响应式、漂亮的图表库 |![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social)|
 
-  - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] - 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
-    - [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] - 基于Chart.js的Vue图表组件 ![](https://img.shields.io/github/stars/apertureless/vue-chartjs?style=social) ![](https://img.shields.io/github/forks/apertureless/vue-chartjs?style=social)
-    - [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] - 基于chart.js的React图表组件 ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
-    - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] - 基于Chart.js的AngularJS响应式、漂亮的图表库 ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
 
 #### [AntV](https://antv.gitee.io/zh)
 
