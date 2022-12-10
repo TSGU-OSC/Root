@@ -71,13 +71,19 @@
 
 
 
-### 智能识别
+### 文字识别
 
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
-| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|
+| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |![](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|
 
-
+### 人脸识别
+| :-----| :----: |:----: |
+| [openface](https://github.com/cmusatyalab/openface)| 人脸识别的通用库，能够实现瞬态和移动人脸识别 |![](https://img.shields.io/github/stars/cmusatyalab/openface?style=social) |
+| [face_recognition](https://github.com/ageitgey/face_recognition)| 强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例。 |![](https://img.shields.io/github/stars/ageitgey/face_recognition?style=social) |
+| [insightface](https://github.com/deepinsight/insightface)| 开源的 2D&3D 深度人脸分析工具箱，主要基于 PyTorch 和 MXNet |![](https://img.shields.io/github/stars/deepinsight/insightface?style=social) |
+| [deepface](https://github.com/serengil/deepface)| 用于 python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）框架。它是一个混合人脸识别框架，包含最先进的模型：VGG-Face、Google FaceNet、OpenFace、Facebook DeepFace、DeepID、ArcFace 和 Dlib。 |![](https://img.shields.io/github/stars/serengil/deepface?style=social) |
+| [CompreFace](https://github.com/exadel-inc/CompreFace)| 无需事先具备机器学习技能即可轻松集成到任何系统中。CompreFace 提供 REST API 用于人脸识别、人脸验证、人脸检测、地标检测、年龄和性别识别，并且可以通过 docker 轻松部署，并支持在 CPU 和 GPU 上工作的不同模型。 |![](https://img.shields.io/github/stars/exadel-inc/CompreFace?style=social) |
 
 ### 图片编辑
 #### [fabric.js](https://github.com/fabricjs/fabric.js/)
