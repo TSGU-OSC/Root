@@ -146,5 +146,12 @@
 | [thefuck](https://github.com/nvbn/thefuck) | 敲错命令时大喊一声 fuck ，并输入 fuck 命令，刚刚键入的错误命令就会自动修正。 |![](https://img.shields.io/github/stars/nvbn/thefuck?style=social)  |
 | [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 这个 GitHub 项目，这个项目包含一系列技术网站列表，堪称全网最全技术网站索引。 |![](https://img.shields.io/github/stars/tuteng/Best-websites-a-programmer-should-visit-zh?style=social)  |
 | :----- | :----: |:----: |
+
+### 摸鱼
+
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [BossSensor](https://github.com/Hironsan/BossSensor) | 通过AI人脸识别，老板来了就切换桌面。 |![](https://img.shields.io/github/stars/Hironsan/BossSensorstyle=social) |
+| [ratel](https://gitee.com/ainilili/ratel) | 在命令行中玩斗地主 |<a href='https://gitee.com/Jack__Lau/Root/stargazers'><img src='https://gitee.com/ainilili/ratel/badge/star.svg?theme=white' alt='star'></img></a>|
 | :----- | :----: |:----: |
 | :----- | :----: |:----: |
