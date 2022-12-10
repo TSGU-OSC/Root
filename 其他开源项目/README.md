@@ -10,11 +10,28 @@
 | [exokit](https://github.com/exokitxr/exokit)♾️[在线演示](https://exokit.org/)|基于JavaScript的原生VR / AR / XR引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/exokitxr/exokit?style=social) |
 | [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate)♾️[在线演示](https://borismus.github.io/webvr-boilerplate/#) | 工作在VR头戴设备的基于Web的VR虚拟体验 |![GitHub Repo stars](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) |
 
+
+### 3D
+
+| 项目名| 描述 |其他详情 |
+| [three.js](https://github.com/mrdoob/three.js)♾️[在线演示](https://threejs.org/examples/#webgl_animation_keyframes)| 创建易于使用、轻量级、跨浏览器的通用3d js库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
+| [zdog](https://github.com/metafizzy/zdog)♾️[在线演示](https://zzz.dog/)| 基于canvas和SVG设计师友好的伪3D引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/metafizzy/zdog?style=social) |
+| [curtainsjs](https://www.curtainsjs.com/get-started.html)♾️[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)| 轻量级的WebGL库，将DOM元素转换为交互式纹理平面 |![GitHub Repo stars](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) |
+| [obelisk.js](https://github.com/nosir/obelisk.js)♾️[在线演示](https://threejs.org/examples/#webgl_animation_keyframes)| 用HTML5 canvas构建立体图形库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
+| [seen](http://seenjs.io/)♾️[在线演示](http://seenjs.io/demo-simple-interactive.html)| 使用SVG或Canvas渲染3D场景 |![GitHub Repo stars](https://img.shields.io/github/stars/themadcreator/seen?style=social) |
+| [Oimo.js](https://github.com/lo-th/Oimo.js)♾️[在线演示](http://lo-th.github.io/Oimo.js/index.html#basic)| 轻量级的JS 3D物理引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) |
+| [troika](https://protectwise.github.io/troika/)♾️[在线演示](https://github.com/chinaBerg/awesome-canvas/blob/main)| 用于交互式 3D 和 2D 可视化的 JavaScript 框架 |![GitHub Repo stars](https://img.shields.io/github/stars/protectwise/troika?style=social) |
+| [phoria.js](https://github.com/kevinroast/phoria.js)♾️[在线演示](http://www.kevs3d.co.uk/dev/phoria/index.html)| 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android |![GitHub Repo stars](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) |
+| [isomer](https://github.com/jdan/isomer)♾️[在线演示](http://jdan.github.io/isomer/)| 基于HTML5 Canvas的简单等距图形库。 |![GitHub Repo stars](https://img.shields.io/github/stars/jdan/isomer?style=social) |
+
+
+
 ### 智能识别
 
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 | [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|
+
 
 
 ### 图形绘制
@@ -35,10 +52,7 @@
 | [vue-konva](https://github.com/konvajs/vue-konva)| 基于Vue和konva绘制复杂canvas图形的JS库 | ![GitHub Repo stars](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) |
 | [react-proto](https://github.com/React-Proto/react-proto) | 为开发人员和设计人员的React原型工具应用 | ![GitHub Repo stars](https://img.shields.io/github/stars/React-Proto/react-proto?style=social) |
 
-### 3D
 
-| 项目名| 系统要求| 描述 |其他详情 |
-| :-----| ----: | :----: |:----: |
 
 ### 开源系统
 
@@ -50,6 +64,7 @@
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 | [OBS Studio](https://obsproject.com/)| Win/Mac/Linux | 视频录制和实时直播软件，支持直播时实时推送到B站、抖音、斗鱼、快手等几乎所有的直播平台上。支持中文 |![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+
 
 ### 其他
 
