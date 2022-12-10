@@ -129,6 +129,7 @@
  |[p5.js]( https://github.com/processing/p5.js) [[在线演示](https://p5js.org/zh-Hans/examples/)] | JS客户端库，用于创建图形和交互体验库 ![](https://img.shields.io/github/stars/processing/p5.js?style=social) |
 
 
+
 ### 截图与海报
 | 项目名| 描述 |其他详情 |
 | :----- | :----: |:----: |
@@ -140,6 +141,76 @@
 | [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas)| 小程序海报组件-生成朋友圈分享海报并生成图片 |![GitHub Repo stars](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) |
 
 
+### 图表库
+#### [D3](https://github.com/d3/d3)
+  - [D3](https://github.com/d3/d3) [[在线演示](https://observablehq.com/@d3/gallery)] - D3(或D3.js)是一个用于web标准可视化数据的JS库 ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/forks/d3/d3?style=social)
+    - [awesome-d3](https://github.com/wbkd/awesome-d3) - D3非资源集合 ![](https://img.shields.io/github/stars/wbkd/awesome-d3?style=social) ![](https://img.shields.io/github/forks/wbkd/awesome-d3?style=social)
+    - [angular-charts](https://github.com/chinmaymk/angular-charts) - 基于D3创建Angular创建图表的指令库 ![](https://img.shields.io/github/stars/chinmaymk/angular-charts?style=social) ![](https://img.shields.io/github/forks/chinmaymk/angular-charts?style=social)
+    - [nvd3](http://nvd3-community.github.io/nvd3/examples/documentation.html) [[在线演示](http://nvd3-community.github.io/nvd3/)] - 一个用d3.js编写的可重用图表库 ![](https://img.shields.io/github/stars/novus/nvd3?style=social) ![](https://img.shields.io/github/forks/novus/nvd3?style=social)
+    - [c3](https://c3js.org/) [[在线演示](https://c3js.org/examples.html)] - 一个基于D3的可重用图表库 ![](https://img.shields.io/github/stars/c3js/c3?style=social) ![](https://img.shields.io/github/forks/c3js/c3?style=social)
+    - [dc.js](https://github.com/dc-js/dc.js) [[在线演示](http://dc-js.github.io/dc.js/)] - 基于D3使用corssfilter渲染的多维图表 ![](https://img.shields.io/github/stars/dc-js/dc.js?style=social) ![](https://img.shields.io/github/forks/dc-js/dc.js?style=social)
+    - [britecharts](https://britecharts.github.io/britecharts/) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] - 基于D3.js v5的客户端可重用图表库 ![](https://img.shields.io/github/stars/britecharts/britecharts?style=social) ![](https://img.shields.io/github/forks/britecharts/britecharts?style=social)
+    - [neo4jd3](https://github.com/eisman/neo4jd3) [[在线演示](https://britecharts.github.io/britecharts/tutorial-bar.html)] - 使用D3.js的Neo4j图形可视化。![](https://img.shields.io/github/stars/eisman/neo4jd3?style=social) ![](https://img.shields.io/github/forks/eisman/neo4jd3?style=social)
+    - [nivo](https://github.com/plouc/nivo) [[在线演示](https://nivo.rocks/components/)] - 基于React和D3提供了一套丰富的数据可视化组件 ![](https://img.shields.io/github/stars/plouc/nivo?style=social) ![](https://img.shields.io/github/forks/plouc/nivo?style=social)
+
+#### [echarts](https://github.com/apache/echarts)
+
+  - [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] - 一个强大的交互式图表和数据可视化库 ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/forks/apache/echarts?style=social)
+    - [v-charts](https://v-charts.js.org/#/) [[在线演示](https://codesandbox.io/s/z69myovqzx)] - 基于 Vue2.0 和 ECharts 封装的图表组件 ![](https://img.shields.io/github/stars/ElemeFE/v-charts?style=social) ![](https://img.shields.io/github/forks/ElemeFE/v-charts?style=social)
+    - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts (incubating) 的微信小程序版本 ![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) ![](https://img.shields.io/github/forks/ecomfe/echarts-for-weixin?style=social)
+
+  - [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)] - 给开发和设计人员的简单而灵活的js图表 ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/forks/chartjs/Chart.js?style=social)
+    - [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] - 基于Chart.js的Vue图表组件 ![](https://img.shields.io/github/stars/apertureless/vue-chartjs?style=social) ![](https://img.shields.io/github/forks/apertureless/vue-chartjs?style=social)
+    - [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] - 基于chart.js的React图表组件 ![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) ![](https://img.shields.io/github/forks/reactjs/react-chartjs?style=social)
+    - [angular-chart.js](http://jtblin.github.io/angular-chart.js/) [[在线演示](http://jtblin.github.io/angular-chart.js/#top)] - 基于Chart.js的AngularJS响应式、漂亮的图表库 ![](https://img.shields.io/github/stars/jtblin/angular-chart.js?style=social) ![](https://img.shields.io/github/forks/jtblin/angular-chart.js?style=social)
+
+#### [AntV](https://antv.gitee.io/zh)
+
+  - [AntV](https://antv.gitee.io/zh) - 蚂蚁集团全新一代数据可视化解决方案
+    - [G](https://antv-g-next.gitee.io/zh/docs/guide/introduce/) [[在线演示](https://antv-g-next.gitee.io/zh/examples/shape)] - AntV底层的2D/3D渲染引擎，适配Canvas2D/SVG/WebGL/WebGPU ![](https://img.shields.io/github/stars/antvis/g?style=social)
+    - [G2](https://github.com/antvis/g2) [[在线演示](https://g2.antv.vision/zh/examples/gallery)] - 一套面向常规统计图表，以数据驱动的高交互可视化图形语法。 ![](https://img.shields.io/github/stars/antvis/g2?style=social) ![](https://img.shields.io/github/forks/antvis/g2?style=social)
+    - [G2Plot](https://github.com/antvis/g2plot) [[在线演示](https://antv-g2plot.gitee.io/zh/examples/gallery/)] - 基于图形语法（the Grammar of Graphics）的图表库 ![](https://img.shields.io/github/forks/antvis/g2plot?style=social)
+    - [G6](https://antv-g6.gitee.io/zh/) [[在线演示](https://antv-g6.gitee.io/zh/examples/gallery)] - ♾ G6 是一个简单、易用、完备的图可视化引擎 ![](https://img.shields.io/github/stars/antvis/g6?style=social) ![](https://img.shields.io/github/forks/antvis/g6?style=social)
+    - [F2](https://antv-f2.gitee.io/zh/docs/tutorial/getting-started) [[在线演示](https://antv-f2.gitee.io/zh/examples/gallery)] - 开箱即用的移动端可视化解决方案，完美支持H5，兼容node、小程序、weex ![](https://img.shields.io/github/stars/antvis/F2?style=social)
+    - [F2Native](https://antv-f2native.gitee.io/zh) [[在线演示](https://antv-f2native.gitee.io/zh/docs/examples/line/line)] - 专注于移动客户端，开箱即用、高性能的可视化解决方案 ![](https://img.shields.io/github/stars/antvis/f2native?style=social) ![](https://img.shields.io/github/forks/antvis/f2native?style=social)
+    - [F6](https://antv-f6.gitee.io/zh/) [[在线示例](https://antv-f6.gitee.io/zh/docs/examples/tree/compactBox)] - F6是一款可以快速、流畅运行于移动设备中的图可视化引擎 ![](https://img.shields.io/github/stars/antvis/f6?style=social) ![](https://img.shields.io/github/forks/antvis/f6?style=social)
+    - [X6](https://antv-x6.gitee.io/zh/) [[在线演示](https://antv-x6.gitee.io/zh/examples/gallery)] - 🚀 X6 是 AntV 旗下的图编辑引擎。 ![](https://img.shields.io/github/stars/antvis/x6?style=social) ![](https://img.shields.io/github/forks/antvis/x6?style=social)
+    - [XFlow](https://xflow.antv.vision/zh-CN/) [[在线示例](https://xflow.antv.vision/docs/tutorial/intro/getting-started/)] - 基于X6、面向React技术栈用户的专业图编辑应用级解决方案 ![](https://img.shields.io/github/stars/antvis/XFlow?style=social) ![](https://img.shields.io/github/forks/antvis/XFlow?style=social)
+    - [S2](https://github.com/antvis/s2) [[在线演示](https://antv-s2.gitee.io/zh/examples/gallery/)] - 数据驱动的多维分析表格。 ![](https://img.shields.io/github/stars/antvis/s2?style=social) ![](https://img.shields.io/github/forks/antvis/s2?style=social)
+    - [L7](https://antv-l7.gitee.io/zh) [[在线演示](https://l7.antv.vision/en/examples/gallery)] - 🌎 基于WebGL开源的大规模地理空间数据可视分析开发框架 ![](https://img.shields.io/github/stars/antvis/l7?style=social) ![](https://img.shields.io/github/forks/antvis/l7?style=social)
+    - [L7Plot](https://antv-l7plot.gitee.io/zh/) [[在线示例](https://antv-l7plot.gitee.io/zh/examples/gallery)] - 简单易用、图表丰富、支持定制的地理空间图表库 ![](https://img.shields.io/github/stars/antvis/L7Plot?style=social) ![](https://img.shields.io/github/forks/antvis/L7Plot?style=social)
+    - [Graphin](https://antv-graphin.gitee.io/) [[在线示例](https://antv-graphin.gitee.io/components/interaction/context-menu)] - 基于G6封装的React组件库，专注在关系可视分析领域 ![](https://img.shields.io/github/stars/antvis/graphin?style=social) ![](https://img.shields.io/github/forks/antvis/graphin?style=social)
+    - [Ant Design Charts](https://charts.ant.design/zh) [[在线示例](https://charts.ant.design/zh/examples/gallery)] - 简单好用的 React 图表库。 ![](https://img.shields.io/github/stars/ant-design/ant-design-charts?style=social) ![](https://img.shields.io/github/forks/ant-design/ant-design-charts?style=social)
+    - [AVA](https://antv-ava.gitee.io/zh) [[在线示例](https://antv-ava.gitee.io/zh/examples/gallery)] - AVA 是为了更简便的可视分析而生的技术框架 ![](https://img.shields.io/github/stars/antvis/ava?style=social) ![](https://img.shields.io/github/forks/antvis/ava?style=social)
+    - [Viser](https://viserjs.github.io/) [[在线示例](https://viserjs.github.io/demoHome.html)] - 基于G2的数据可视化工具包，支持React、Vue和AngularJS ![](https://img.shields.io/github/stars/viserjs/viser?style=social) ![](https://img.shields.io/github/forks/viserjs/viser?style=social)
+  
+#### 其他
+
+- [highcharts](https://github.com/highcharts/highcharts) [[在线演示](https://www.highcharts.com/demo)] - 基于SVG的JavaScript图表库,支持旧浏览器 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/forks/highcharts/highcharts?style=social)
+
+  - [wx-charts](https://github.com/xiaolin3303/wx-charts) [[在线演示](https://github.com/xiaolin3303/wx-charts-demo)] - 微信小程序图表charts组件 ![](https://img.shields.io/github/stars/xiaolin3303/wx-charts?style=social) ![](https://img.shields.io/github/forks/xiaolin3303/wx-charts?style=social)
+
+  - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) [[在线演示](https://wordcloud2-js.timdream.org/#love)] - 2D Canvas/Html词云 ![](https://img.shields.io/github/stars/timdream/wordcloud2.js?style=social) ![](https://img.shields.io/github/forks/timdream/wordcloud2.js?style=social)
+
+  - [chartist-js](https://github.com/gionkunz/chartist-js) [[在线演示](http://gionkunz.github.io/chartist-js/examples.html)] - 简单的响应式图表 ![](https://img.shields.io/github/stars/gionkunz/chartist-js?style=social) ![](https://img.shields.io/github/forks/gionkunz/chartist-js?style=social)
+
+  - [charts](https://frappe.io/charts/docs) [[在线演示](https://frappe.io/charts)] - 零依赖的、简单的、响应快的、现代SVG图表 ![](https://img.shields.io/github/stars/frappe/charts?style=social) ![](https://img.shields.io/github/forks/frappe/charts?style=social)
+
+  - [flot](http://www.flotcharts.org/) [[在线演示](http://www.flotcharts.org/flot/examples/)] - 基于Jquery为工程和科学应用程序派生的JS绘图库 ![](https://img.shields.io/github/stars/flot/flot?style=social) ![](https://img.shields.io/github/forks/flot/flot?style=social)
+
+  - [apexcharts.js](https://apexcharts.com/) [[在线演示](https://apexcharts.com/javascript-chart-demos/)] - 基于SVG的交互式JavaScript图表 ![](https://img.shields.io/github/stars/apexcharts/apexcharts.js?style=social) ![](https://img.shields.io/github/forks/apexcharts/apexcharts.js?style=social)
+
+  - [plotly.js](https://github.com/plotly/plotly.js) [[在线演示](https://plotly.com/javascript/)] - Ploty和Dash的JavaScript版本的开源图表库 ![](https://img.shields.io/github/stars/plotly/plotly.js?style=social) ![](https://img.shields.io/github/forks/plotly/plotly.js?style=social)
+
+  - [easy-pie-chart](https://github.com/rendro/easy-pie-chart) - 一个轻量级插件，为单个值绘制简单带动画的饼图 ![](https://img.shields.io/github/stars/rendro/easy-pie-chart?style=social) ![](https://img.shields.io/github/forks/rendro/easy-pie-chart?style=social)
+
+  - [react-vis](https://github.com/uber/react-vis) [[在线演示](http://uber.github.io/react-vis/examples/showcases/axes)] - React的数据可视化组件 ![](https://img.shields.io/github/stars/uber/react-vis?style=social) ![](https://img.shields.io/github/forks/uber/react-vis?style=social)
+  - [vega](https://vega.github.io/vega) [[在线演示](https://vega.github.io/vega/examples/)] - 可视化语法，使用Vega，您可以用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/forks/vega/vega?style=social)
+  - [heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5 Canvas的Js热力图 ![](https://img.shields.io/github/stars/pa7/heatmap.js?style=social) ![](https://img.shields.io/github/forks/pa7/heatmap.js?style=social)
+  - [zeu](https://github.com/shzlw/zeu) [[在线演示](https://shzlw.github.io/zeu/examples/my-command-center.html)] - 用于构建实时电视仪表板、监控UI和物联网Web界面的JS库 ![](https://img.shields.io/github/stars/shzlw/zeu?style=social) ![](https://img.shields.io/github/forks/shzlw/zeu?style=social)
+  - [HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图 ![](https://img.shields.io/github/stars/jones2000/HQChart?style=social) ![](https://img.shields.io/github/forks/jones2000/HQChart?style=social)
+  - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) [[在线演示](http://canvas-gauges.com/documentation/examples/)] - 使用纯 JavaScript 和 HTML5 画布的高度可配置仪表盘。没有依赖性。由于代码库最少，因此适用于物联网设备 ![](https://img.shields.io/github/stars/Mikhus/canvas-gauges?style=social) ![](https://img.shields.io/github/forks/Mikhus/canvas-gauges?style=social)
+  - [lightweight-charts](https://github.com/tradingview/lightweight-charts) [[在线演示](https://www.tradingview.com/lightweight-charts/)] - 使用H5 Canvas创建的财务轻量级图表 ![](https://img.shields.io/github/stars/tradingview/lightweight-charts?style=social) ![](https://img.shields.io/github/forks/tradingview/lightweight-charts?style=social)
 
 ### 音视频
 
