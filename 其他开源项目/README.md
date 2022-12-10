@@ -63,7 +63,15 @@
 | [vue-konva](https://github.com/konvajs/vue-konva)| 基于Vue和konva绘制复杂canvas图形的JS库 | ![GitHub Repo stars](https://img.shields.io/github/stars/konvajs/vue-konva?style=social) |
 | [react-proto](https://github.com/React-Proto/react-proto) | 为开发人员和设计人员的React原型工具应用 | ![GitHub Repo stars](https://img.shields.io/github/stars/React-Proto/react-proto?style=social) |
 
-
+### 截图与海报
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
+| [html2canvas](https://github.com/niklasvh/html2canvas/)♾️[在线演示](https://html2canvas.hertzen.com/)| JS截图插件 |![GitHub Repo stars](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) |
+| [dom-to-image](https://github.com/tsayen/dom-to-image)| 使用HTML5 Canvas从DOM节点生成图像 |![GitHub Repo stars](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social)  |
+| [html-to-image](https://github.com/bubkoo/html-to-image)| 使用HTML5 Canvas和SVG从DOM节点生成图像。 |![GitHub Repo stars](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) |
+| [canvas2image](https://github.com/hongru/canvas2image)♾️[在线演示](https://github.com/hongru/canvas2image/blob/master/index.html)| 用于保存或转换Canvas为图片的工具 |![GitHub Repo stars](https://img.shields.io/github/stars/hongru/canvas2image?style=social) |
+| [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer)♾️[在线演示](https://github.com/kuckboy1994/mp_canvas_drawer#%E6%BC%94%E7%A4%BA)| 微信小程序绘图助手，通过json生成分享朋友圈的图片 |![GitHub Repo stars](https://img.shields.io/github/stars/kuckboy1994/mp_canvas_drawer?style=social) |
+| [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas)| 小程序海报组件-生成朋友圈分享海报并生成图片 |![GitHub Repo stars](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) |
 
 ### 开源系统
 
