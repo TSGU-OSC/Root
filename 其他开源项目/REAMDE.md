@@ -1,4 +1,4 @@
-| 项目名| 描述| 备注 |
+| 项目名| 系统要求| 描述 |
 | :-----| ----: | :----: |
-| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) |  |  |
+| [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 |  |
 | 单元格 | 单元格 | 单元格 |
