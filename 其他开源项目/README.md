@@ -72,22 +72,22 @@
 ### 高仿App
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
-| [zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) | 高仿知乎。|![](https://img.shields.io/github/stars/xujiyou/zhihu-flutter?style=social) |
-|[TLChat](https://github.com/tbl00c/TLChat) | 高仿微信。|![](https://img.shields.io/github/stars/tbl00c/TLChat?style=social) |
-| [vue-meituan](https://github.com/zwStar/vue-meituan) | 高仿美团外卖点餐。|![](https://img.shields.io/github/stars/zwStar/vue-meituan?style=social) |
-| [TouTiao](https://github.com/chaychan/TouTiao) | 高仿今日头条。|![](https://img.shields.io/github/stars/chaychan/TouTiao?style=social) |
-| [vue-juejin](https://github.com/sanfengliao/vue-juejin) | 高仿掘金。|![](https://img.shields.io/github/stars/sanfengliao/vue-juejin?style=social) |
-| [DSLolita](https://github.com/sam408130/DSLolita) | 高仿微博 iOS  版本。|![](https://img.shields.io/github/stars/sam408130/DSLolita?style=social) |
-| [WeiBo](https://github.com/wenmingvs/WeiBo) | 高仿微博 Android 版本。|![](https://img.shields.io/github/stars/wenmingvs/WeiBo?style=social) |
-| [douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) | 高仿抖音 iOS  版本。|![](https://img.shields.io/github/stars/sshiqiao/douyin-ios-objectc?style=social) |
-| [Tiktok](https://github.com/18380438200/Tiktok) | 高仿 Tiktok。|![](https://img.shields.io/github/stars/18380438200/Tiktok?style=social) |
-| [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | 高仿 YouTube ios 版本。|![](https://img.shields.io/github/stars/aslanyanhaik/youtube-iOS?style=social) |
-| [NewPi](https://github.com/TeamNewPipe/NewPi) | 高仿 YouTube Android 版本。|![](https://img.shields.io/github/stars/TeamNewPipe/NewPi?style=social) |
-| [dy_flutter](https://github.com/yukilzw/dy_flutter) |高仿斗鱼直播 App。|![](https://img.shields.io/github/stars/yukilzw/dy_flutter?style=social) |
-| [flutter-netease-music](https://github.com/boyan01/flutter-netease-music) | 高仿网易云音乐。|![](https://img.shields.io/github/stars/boyan01/flutter-netease-music?style=social) |
-| [react-bilibili](https://github.com/code-mcx/react-bilibili) | 高仿 B 站。|![](https://img.shields.io/github/stars/code-mcx/react-bilibili?style=social) |
-| [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) | 高仿 B站 iOS 版本。|![](https://img.shields.io/github/stars/MichaelHuyp/Bilibili_Wuxianda?style=social) |
-| [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) | 高仿 B 站 Android 版本。|![](https://img.shields.io/github/stars/HotBitmapGG/bilibili-android-client?style=social) |
+| [zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) | 高仿知乎|![](https://img.shields.io/github/stars/xujiyou/zhihu-flutter?style=social) |
+|[TLChat](https://github.com/tbl00c/TLChat) | 高仿微信|![](https://img.shields.io/github/stars/tbl00c/TLChat?style=social) |
+| [vue-meituan](https://github.com/zwStar/vue-meituan) | 高仿美团外卖点餐|![](https://img.shields.io/github/stars/zwStar/vue-meituan?style=social) |
+| [TouTiao](https://github.com/chaychan/TouTiao) | 高仿今日头条|![](https://img.shields.io/github/stars/chaychan/TouTiao?style=social) |
+| [vue-juejin](https://github.com/sanfengliao/vue-juejin) | 高仿掘金|![](https://img.shields.io/github/stars/sanfengliao/vue-juejin?style=social) |
+| [DSLolita](https://github.com/sam408130/DSLolita) | 高仿微博 iOS  版本|![](https://img.shields.io/github/stars/sam408130/DSLolita?style=social) |
+| [WeiBo](https://github.com/wenmingvs/WeiBo) | 高仿微博 Android 版本|![](https://img.shields.io/github/stars/wenmingvs/WeiBo?style=social) |
+| [douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) | 高仿抖音 iOS  版本|![](https://img.shields.io/github/stars/sshiqiao/douyin-ios-objectc?style=social) |
+| [Tiktok](https://github.com/18380438200/Tiktok) | 高仿 Tiktok|![](https://img.shields.io/github/stars/18380438200/Tiktok?style=social) |
+| [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | 高仿 YouTube ios 版本|![](https://img.shields.io/github/stars/aslanyanhaik/youtube-iOS?style=social) |
+| [NewPi](https://github.com/TeamNewPipe/NewPi) | 高仿 YouTube Android 版本|![](https://img.shields.io/github/stars/TeamNewPipe/NewPi?style=social) |
+| [dy_flutter](https://github.com/yukilzw/dy_flutter) |高仿斗鱼直播 App|![](https://img.shields.io/github/stars/yukilzw/dy_flutter?style=social) |
+| [flutter-netease-music](https://github.com/boyan01/flutter-netease-music) | 高仿网易云音乐|![](https://img.shields.io/github/stars/boyan01/flutter-netease-music?style=social) |
+| [react-bilibili](https://github.com/code-mcx/react-bilibili) | 高仿 B 站|![](https://img.shields.io/github/stars/code-mcx/react-bilibili?style=social) |
+| [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) | 高仿 B站 iOS 版本|![](https://img.shields.io/github/stars/MichaelHuyp/Bilibili_Wuxianda?style=social) |
+| [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) | 高仿 B 站 Android 版本|![](https://img.shields.io/github/stars/HotBitmapGG/bilibili-android-client?style=social) |
 
 ### 文字识别
 
