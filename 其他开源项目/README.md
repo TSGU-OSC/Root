@@ -45,6 +45,7 @@
 | [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template)| Phaser3项目模板 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) |
 | [phaser3-examples](https://github.com/photonstorm/phaser3-examples)|  phaser3例子 |![GitHub Repo stars](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) |
 
+
 #### 其他
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
@@ -60,6 +61,13 @@
 | [eva.js](https://github.com/eva-engine/eva.js)♾️[演示](https://eva.js.org/playground/#/resource)| 专注于开发互动游戏项目的前端游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/eva-engine/eva.js?style=social) |
 | [Excalibur](https://github.com/excaliburjs/Excalibur)♾️[演示](https://excaliburjs.com/samples/)| 使用TS编写的易于使用的2D H5游戏引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social) |
 | [Sketchbook](https://github.com/swift502/Sketchbook)♾️[演示](https://jblaha.art/sketchbook/0.4/)| 基于three.js和cannon.js的3D游乐场 |![GitHub Repo stars](https://img.shields.io/github/stars/swift502/Sketchbook?style=social) |
+
+### 开源游戏
+| 项目名| 描述 |其他详情 |
+| :-----| :----: |:----: |
+| [preserve-cd ](https://github.com/skywind3000/preserve-cd)| 收录了 64 款几近绝版的精品 DOS 游戏 |![GitHub Repo stars](https://img.shields.io/github/stars/skywind3000/preserve-cd?style=social) |
+| [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)| 复刻了暗黑破坏神2 |![GitHub Repo stars](https://img.shields.io/github/stars/OpenDiablo2/OpenDiablo2?style=social) |
+| [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies)| python版《植物大战僵尸》 |![GitHub Repo stars](https://img.shields.io/github/stars/marblexu/PythonPlantsVsZombies?style=social) |
 
 
 
