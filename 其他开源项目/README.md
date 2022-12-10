@@ -9,7 +9,7 @@
 #### [fabric.js](https://github.com/fabricjs/fabric.js/)
 | 项目名| 系统要求| 描述 | 其他详情 |
 | :-----| ----: | :----: | :----: |
-| [fabric.js](http://fabricjs.com/)[【在线演示】](http://fabricjs.com/demos/)| ----: | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
+| [fabric.js](http://fabricjs.com/)🎈🎈[在线演示](http://fabricjs.com/demos/)| ----: | 轻松处理Canvas元素的框架、Canvas和SVG的转换解析器 | ![GitHub Repo stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) |
 | [darkroomjs](https://github.com/MattKetmo/darkroomjs)| ----: | 浏览器端可扩展的图像编辑工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/MattKetmo/darkroomjs?style=social) |
 | :-----| ----: | :----: | :----: |
 | :-----| ----: | :----: | :----: |
