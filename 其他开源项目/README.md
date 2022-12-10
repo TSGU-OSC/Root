@@ -78,6 +78,8 @@
 | [Umi-OCR 文字识别工具](https://github.com/hiroi-sora/Umi-OCR) | Win10 x64 及以上版本 | 批量图片转换文字 |![](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|
 
 ### 人脸识别
+
+| 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
 | [openface](https://github.com/cmusatyalab/openface)| 人脸识别的通用库，能够实现瞬态和移动人脸识别 |![](https://img.shields.io/github/stars/cmusatyalab/openface?style=social) |
 | [face_recognition](https://github.com/ageitgey/face_recognition)| 强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例。 |![](https://img.shields.io/github/stars/ageitgey/face_recognition?style=social) |
