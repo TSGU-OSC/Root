@@ -1,12 +1,22 @@
 # 天津中德应用技术大学开放原子开源社团
 
-#### 介绍
+## 介绍
 学习交流开源知识，帮助对开源文化感兴趣的同学们了解开源。
 
 如有问题请在[issues页面](https://gitee.com/Jack__Lau/Root/issues)新建Issues描述问题。
 
 理论知识请在[Wiki](https://gitee.com/Jack__Lau/Root/wikis)构建
 
+## 目录
+
+点击下列标题进入
+
+### [C/C++](https://gitee.com/Jack__Lau/Root/tree/master/C)
+### [OpenHarmony](https://gitee.com/Jack__Lau/Root/tree/master/OpenHarmony)
+### [量子计算](https://gitee.com/Jack__Lau/Root/tree/master/量子计算)
+### [其他开源项目](https://gitee.com/Jack__Lau/Root/tree/master/其他开源项目)
+
+## 其他
 ### 安装教程
 1. 下载代码
 2. cd ../
@@ -19,7 +29,7 @@
 
    采用的主题[jhildenbiddle.github.io/docsify-themeable/#/themes](https://jhildenbiddle.github.io/docsify-themeable/#/themes)
 
-#### 提交代码
+### 提交代码
 
 
 首先fork
@@ -32,6 +42,6 @@
 
 最后等待管理员审批
 
-#### 新手注意
+### 新手注意
 1. 文件名不要用特殊字符
 2. 工程代码必须新建一个文件夹，禁止零散污染目录！
