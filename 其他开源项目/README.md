@@ -2,28 +2,28 @@
 
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
-| [A-Frame](https://github.com/aframevr/aframe)♾️[在线演示](https://aframe.io/)| A-Frame 除了帮助您构建 360 度媒体播放器外，它还提供了许多附加功能。其他功能可帮助您增强网站的虚拟现实体验。 |![GitHub Repo stars](https://img.shields.io/github/stars/aframevr/aframe?style=social) |
-| [Panolens.js](https://github.com/pchen66/panolens.js)♾️[在线演示](https://pchen66.github.io/Panolens/) | Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 |![GitHub Repo stars](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) |
-| [Pannellum](https://github.com/mpetroff/pannellum)♾️[在线演示](https://pannellum.org/) | 轻量、免费、开源的web全景查看器。 |![GitHub Repo stars](https://img.shields.io/github/stars/mpetroff/pannellum?style=social) |
-| [Marzipano](https://github.com/google/marzipano)♾️[在线演示](https://www.marzipano.net/demos/sample-tour/) | 可让您轻松为您的网站创建 360 度媒体播放器。 |![GitHub Repo stars](https://img.shields.io/github/stars/google/marzipano?style=social) |
-| [JS-Cloudimage-360-View](https://github.com/scaleflex/js-cloudimage-360-view)♾️[在线演示](https://scaleflex.github.io/js-cloudimage-360-view/) | 一个简单的、交互式的资源，可以用来提供您的产品的虚拟游览。 |![GitHub Repo stars](https://img.shields.io/github/stars/scaleflex/js-cloudimage-360-view?style=social) |
-| [exokit](https://github.com/exokitxr/exokit)♾️[在线演示](https://exokit.org/)|基于JavaScript的原生VR / AR / XR引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/exokitxr/exokit?style=social) |
-| [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate)♾️[在线演示](https://borismus.github.io/webvr-boilerplate/#) | 工作在VR头戴设备的基于Web的VR虚拟体验 |![GitHub Repo stars](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) |
+| [A-Frame](https://github.com/aframevr/aframe)♾️[演示](https://aframe.io/)| A-Frame 除了帮助您构建 360 度媒体播放器外，它还提供了许多附加功能。其他功能可帮助您增强网站的虚拟现实体验。 |![GitHub Repo stars](https://img.shields.io/github/stars/aframevr/aframe?style=social) |
+| [Panolens.js](https://github.com/pchen66/panolens.js)♾️[演示](https://pchen66.github.io/Panolens/) | Panolens.js基于Three.JS，主要研究领域是全景、虚拟现实和潜在的增强现实。 |![GitHub Repo stars](https://img.shields.io/github/stars/pchen66/panolens.js?style=social) |
+| [Pannellum](https://github.com/mpetroff/pannellum)♾️[演示](https://pannellum.org/) | 轻量、免费、开源的web全景查看器。 |![GitHub Repo stars](https://img.shields.io/github/stars/mpetroff/pannellum?style=social) |
+| [Marzipano](https://github.com/google/marzipano)♾️[演示](https://www.marzipano.net/demos/sample-tour/) | 可让您轻松为您的网站创建 360 度媒体播放器。 |![GitHub Repo stars](https://img.shields.io/github/stars/google/marzipano?style=social) |
+| [JS-Cloudimage-360-View](https://github.com/scaleflex/js-cloudimage-360-view)♾️[演示](https://scaleflex.github.io/js-cloudimage-360-view/) | 一个简单的、交互式的资源，可以用来提供您的产品的虚拟游览。 |![GitHub Repo stars](https://img.shields.io/github/stars/scaleflex/js-cloudimage-360-view?style=social) |
+| [exokit](https://github.com/exokitxr/exokit)♾️[演示](https://exokit.org/)|基于JavaScript的原生VR / AR / XR引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/exokitxr/exokit?style=social) |
+| [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate)♾️[演示](https://borismus.github.io/webvr-boilerplate/#) | 工作在VR头戴设备的基于Web的VR虚拟体验 |![GitHub Repo stars](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) |
 
 
 ### 3D
 
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
-| [three.js](https://github.com/mrdoob/three.js)♾️[在线演示](https://threejs.org/examples/#webgl_animation_keyframes)| 创建易于使用、轻量级、跨浏览器的通用3d js库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
-| [zdog](https://github.com/metafizzy/zdog)♾️[在线演示](https://zzz.dog/)| 基于canvas和SVG设计师友好的伪3D引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/metafizzy/zdog?style=social) |
-| [curtainsjs](https://www.curtainsjs.com/get-started.html)♾️[在线演示](https://www.curtainsjs.com/get-started.html#basic-setup)| 轻量级的WebGL库，将DOM元素转换为交互式纹理平面 |![GitHub Repo stars](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) |
-| [obelisk.js](https://github.com/nosir/obelisk.js)♾️[在线演示](https://threejs.org/examples/#webgl_animation_keyframes)| 用HTML5 canvas构建立体图形库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
-| [seen](http://seenjs.io/)♾️[在线演示](http://seenjs.io/demo-simple-interactive.html)| 使用SVG或Canvas渲染3D场景 |![GitHub Repo stars](https://img.shields.io/github/stars/themadcreator/seen?style=social) |
-| [Oimo.js](https://github.com/lo-th/Oimo.js)♾️[在线演示](http://lo-th.github.io/Oimo.js/index.html#basic)| 轻量级的JS 3D物理引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) |
-| [troika](https://protectwise.github.io/troika/)♾️[在线演示](https://github.com/chinaBerg/awesome-canvas/blob/main)| 用于交互式 3D 和 2D 可视化的 JavaScript 框架 |![GitHub Repo stars](https://img.shields.io/github/stars/protectwise/troika?style=social) |
-| [phoria.js](https://github.com/kevinroast/phoria.js)♾️[在线演示](http://www.kevs3d.co.uk/dev/phoria/index.html)| 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android |![GitHub Repo stars](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) |
-| [isomer](https://github.com/jdan/isomer)♾️[在线演示](http://jdan.github.io/isomer/)| 基于HTML5 Canvas的简单等距图形库。 |![GitHub Repo stars](https://img.shields.io/github/stars/jdan/isomer?style=social) |
+| [three.js](https://github.com/mrdoob/three.js)♾️[演示](https://threejs.org/examples/#webgl_animation_keyframes)| 创建易于使用、轻量级、跨浏览器的通用3d js库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
+| [zdog](https://github.com/metafizzy/zdog)♾️[演示](https://zzz.dog/)| 基于canvas和SVG设计师友好的伪3D引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/metafizzy/zdog?style=social) |
+| [curtainsjs](https://www.curtainsjs.com/get-started.html)♾️[演示](https://www.curtainsjs.com/get-started.html#basic-setup)| 轻量级的WebGL库，将DOM元素转换为交互式纹理平面 |![GitHub Repo stars](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) |
+| [obelisk.js](https://github.com/nosir/obelisk.js)♾️[演示](https://threejs.org/examples/#webgl_animation_keyframes)| 用HTML5 canvas构建立体图形库 |![GitHub Repo stars](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) |
+| [seen](http://seenjs.io/)♾️[演示](http://seenjs.io/demo-simple-interactive.html)| 使用SVG或Canvas渲染3D场景 |![GitHub Repo stars](https://img.shields.io/github/stars/themadcreator/seen?style=social) |
+| [Oimo.js](https://github.com/lo-th/Oimo.js)♾️[演示](http://lo-th.github.io/Oimo.js/index.html#basic)| 轻量级的JS 3D物理引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) |
+| [troika](https://protectwise.github.io/troika/)♾️[演示](https://github.com/chinaBerg/awesome-canvas/blob/main)| 用于交互式 3D 和 2D 可视化的 JavaScript 框架 |![GitHub Repo stars](https://img.shields.io/github/stars/protectwise/troika?style=social) |
+| [phoria.js](https://github.com/kevinroast/phoria.js)♾️[演示](http://www.kevs3d.co.uk/dev/phoria/index.html)| 用于在 HTML5 画布 2D 渲染器上进行简单 3D 图形和可视化的 JavaScript 库。它不使用 WebGL。适用于所有 HTML5 浏览器，包括桌面、iOS 和 Android |![GitHub Repo stars](https://img.shields.io/github/stars/kevinroast/phoria.js?style=social) |
+| [isomer](https://github.com/jdan/isomer)♾️[演示](http://jdan.github.io/isomer/)| 基于HTML5 Canvas的简单等距图形库。 |![GitHub Repo stars](https://img.shields.io/github/stars/jdan/isomer?style=social) |
 
 
 
