@@ -69,7 +69,7 @@
 | [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)| 复刻了暗黑破坏神2 |![GitHub Repo stars](https://img.shields.io/github/stars/OpenDiablo2/OpenDiablo2?style=social) |
 | [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies)| python版《植物大战僵尸》 |![](https://img.shields.io/github/stars/marblexu/PythonPlantsVsZombies?style=social) |
 
-### 高仿App
+### 高仿APP
 | 项目名| 描述 |其他详情 |
 | :-----| :----: |:----: |
 | [zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) | 高仿知乎|![](https://img.shields.io/github/stars/xujiyou/zhihu-flutter?style=social) |
@@ -82,7 +82,6 @@
 | [douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) | 高仿抖音 iOS  版本|![](https://img.shields.io/github/stars/sshiqiao/douyin-ios-objectc?style=social) |
 | [Tiktok](https://github.com/18380438200/Tiktok) | 高仿 Tiktok|![](https://img.shields.io/github/stars/18380438200/Tiktok?style=social) |
 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | 高仿 YouTube ios 版本|![](https://img.shields.io/github/stars/aslanyanhaik/youtube-iOS?style=social) |
-| [NewPi](https://github.com/TeamNewPipe/NewPi) | 高仿 YouTube Android 版本|![](https://img.shields.io/github/stars/TeamNewPipe/NewPi?style=social) |
 | [dy_flutter](https://github.com/yukilzw/dy_flutter) |高仿斗鱼直播 App|![](https://img.shields.io/github/stars/yukilzw/dy_flutter?style=social) |
 | [flutter-netease-music](https://github.com/boyan01/flutter-netease-music) | 高仿网易云音乐|![](https://img.shields.io/github/stars/boyan01/flutter-netease-music?style=social) |
 | [react-bilibili](https://github.com/code-mcx/react-bilibili) | 高仿 B 站|![](https://img.shields.io/github/stars/code-mcx/react-bilibili?style=social) |
