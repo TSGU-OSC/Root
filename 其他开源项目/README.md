@@ -104,11 +104,12 @@
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 
-### 视频处理
+### 音视频
 
 | 项目名| 系统要求| 描述 |其他详情 |
 | :-----| ----: | :----: |:----: |
 | [OBS Studio](https://obsproject.com/)| Win/Mac/Linux | 视频录制和实时直播软件，支持直播时实时推送到B站、抖音、斗鱼、快手等几乎所有的直播平台上。支持中文 |![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social) |
+| [canvid](https://github.com/gka/canvid)♾️[演示](https://gka.github.io/canvid/)| ----: | 在Canvas上播放短视频的零依赖JS库 |![GitHub Repo stars](https://img.shields.io/github/stars/gka/canvid?style=social) |
 
 ### 电子表格
 
