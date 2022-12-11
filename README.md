@@ -19,15 +19,9 @@
 ## 其他
 ### 安装教程
 1. 下载代码
-2. cd ../
-3. docsify serve ROOT
-4. 浏览器访问http://localhost:3000/
+2. npm run serve
+3. 浏览器访问http://localhost:3000/Root
 
-   安装教程(视频):[https://b23.tv/LvUVGNp](https://b23.tv/LvUVGNp)
-
-   二次开发详情请看[docsify.js.org/#/zh-cn/](https://docsify.js.org/#/zh-cn/)
-
-   采用的主题[jhildenbiddle.github.io/docsify-themeable/#/themes](https://jhildenbiddle.github.io/docsify-themeable/#/themes)
 
 ### 提交代码
 
