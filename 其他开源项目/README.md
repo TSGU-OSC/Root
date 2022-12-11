@@ -28,7 +28,7 @@
 | [three.js](https://github.com/mrdoob/three.js)♾️[演示](https://threejs.org/examples/#webgl_animation_keyframes)| 创建易于使用、轻量级、跨浏览器的通用3d js库 |![GitHub Repo stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social) |
 | [zdog](https://github.com/metafizzy/zdog)♾️[演示](https://zzz.dog/)| 基于canvas和SVG设计师友好的伪3D引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/metafizzy/zdog?style=social) |
 | [curtainsjs](https://www.curtainsjs.com/get-started.html)♾️[演示](https://www.curtainsjs.com/get-started.html#basic-setup)| 轻量级的WebGL库，将DOM元素转换为交互式纹理平面 |![GitHub Repo stars](https://img.shields.io/github/stars/martinlaxenaire/curtainsjs?style=social) |
-| [obelisk.js](https://github.com/nosir/obelisk.js)♾️[演示](https://threejs.org/examples/#webgl_animation_keyframes)| 用HTML5 canvas构建立体图形库 |![GitHub Repo stars](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) |
+| [obelisk.js](https://github.com/nosir/obelisk.js)| 用HTML5 canvas构建立体图形库 |![GitHub Repo stars](https://img.shields.io/github/stars/nosir/obelisk.js?style=social) |
 | [seen](http://seenjs.io/)♾️[演示](http://seenjs.io/demo-simple-interactive.html)| 使用SVG或Canvas渲染3D场景 |![GitHub Repo stars](https://img.shields.io/github/stars/themadcreator/seen?style=social) |
 | [Oimo.js](https://github.com/lo-th/Oimo.js)♾️[演示](http://lo-th.github.io/Oimo.js/index.html#basic)| 轻量级的JS 3D物理引擎 |![GitHub Repo stars](https://img.shields.io/github/stars/lo-th/Oimo.js?style=social) |
 | [troika](https://protectwise.github.io/troika/)♾️[演示](https://github.com/chinaBerg/awesome-canvas/blob/main)| 用于交互式 3D 和 2D 可视化的 JavaScript 框架 |![GitHub Repo stars](https://img.shields.io/github/stars/protectwise/troika?style=social) |
@@ -151,7 +151,7 @@
  | [mesh.js](https://github.com/mesh-js/mesh.js) [[在线演示](https://meshjs.webgl.group/demo/#/docs/index)] | 为可视化而生的图形系统 |![](https://img.shields.io/github/stars/mesh-js/mesh.js?style=social) |
  | [taro-plugin-canvas](https://github.com/chuyun/taro-plugin-canvas) | 基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片 |![](https://img.shields.io/github/stars/chuyun/taro-plugin-canvas?style=social) |
  | [pencil.js](https://github.com/pencil-js/pencil.js) [[在线演示](https://pencil.js.org/)] | 一款很棒的模块化2D交互式绘图库| ![](https://img.shields.io/github/stars/pencil-js/pencil.js?style=social) |
- |[p5.js]( https://github.com/processing/p5.js) [[在线演示](https://p5js.org/zh-Hans/examples/)] | JS客户端库，用于创建图形和交互体验库 ![](https://img.shields.io/github/stars/processing/p5.js?style=social) |
+ |[p5.js]( https://github.com/processing/p5.js) [[在线演示](https://p5js.org/zh-Hans/examples/)] | JS客户端库，用于创建图形和交互体验库| ![](https://img.shields.io/github/stars/processing/p5.js?style=social) |
 
 
 
@@ -188,6 +188,10 @@
 | [echarts](https://github.com/apache/echarts) [[在线演示](https://echarts.apache.org/examples/zh/index.html)] | 一个强大的交互式图表和数据可视化库 |![](https://img.shields.io/github/stars/apache/echarts?style=social) |
 | [v-charts](https://v-charts.js.org/#/) [[在线演示](https://codesandbox.io/s/z69myovqzx)] | 基于 Vue2.0 和 ECharts 封装的图表组件 |![](https://img.shields.io/github/stars/ElemeFE/v-charts?style=social) |
 | [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) | Apache ECharts (incubating) 的微信小程序版本 |![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) |
+
+#### [Chart.js](https://github.com/chartjs/Chart.js)
+| 项目名| 描述 |其他详情 |
+| :----- | :----: |:----: |
 | [Chart.js](https://github.com/chartjs/Chart.js) [[在线演示](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)]| 给开发和设计人员的简单而灵活的js图表 |![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) |
  | [vue-chartjs](https://vue-chartjs.org/zh-cn/) [[在线演示](http://demo.vue-chartjs.org/)] | 基于Chart.js的Vue图表组件 |![](https://img.shields.io/github/stars/apertureless/vue-chartjs?style=social) |
  | [react-chartjs](https://github.com/reactjs/react-chartjs) [[在线演示]()] | 基于chart.js的React图表组件 |![](https://img.shields.io/github/stars/reactjs/react-chartjs?style=social) |
