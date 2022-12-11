@@ -7,7 +7,7 @@
     - [框架和库](#框架和库)
     - [工具](#工具)
   - [APL](#apl)
-      - [通用机器学习](#通用机器学习)
+      - [通用机器学习](#apl-通用机器学习)
   - [C](#c)
       - [通用机器学习](#c-通用机器学习)
       - [Computer Vision](#c-computer-vision)
@@ -146,7 +146,7 @@
 <a name="apl"></a>
 ## APL
 
-<a name="通用机器学习"></a>
+<a name="apl-通用机器学习"></a>
 #### 通用机器学习
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - APL版朴素贝叶斯分类器 . **[不推荐]**
 
