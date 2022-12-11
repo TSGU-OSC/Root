@@ -13,6 +13,7 @@
 
 ##### [C/C++](/C)
 ##### [Python](/Python/README.md)
+##### [JavaScript](/JavaScript/README.md)
 ##### [NodeJS](/NodeJS/README.md)
 ##### [Hacking](/黑客Hacking/README.md)
 ##### [机器学习](/机器学习machine_learning/README.md)
