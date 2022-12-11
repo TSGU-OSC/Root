@@ -870,20 +870,3 @@ Web 数据可视化工具
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：算法和数据结构的 JS 实现，包含详细解释和发散文章链接。
 
 
-<h1 id="resources">资源</h1>
-
-<h3 id="influential-books">有影响力的书</h3>
-
-*具有广泛影响且值得阅读的前端经典书籍。*
-
-* 《[如果有人让你推荐前端技术书，请让他看这个列表](https://github.com/jobbole/awesome-web-dev-books)》
-* 《你不知道的Javascript》：英文版 "You Don't Know JS"
-
------
-### 其他 Awesome 前端资源系列：
-
-- 《[让你受益匪浅的前端技术干货系列](https://github.com/jobbole/awesome-front-posts)》
-
-- 《[如果有人让你推荐前端技术书，请让他看这个列表](https://github.com/jobbole/awesome-web-dev-books)》
-
-- 《[CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)》
