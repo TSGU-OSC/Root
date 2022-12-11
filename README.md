@@ -12,13 +12,13 @@
 点击下列标题进入
 
 ##### [C/C++](/C)
-##### [Python](/Python)
-##### [NodeJS](/NodeJS)
-##### [Hacking](/黑客Hacking)
-##### [机器学习](/机器学习machine_learning)
-##### [OpenHarmony](/开源鸿蒙OpenHarmony)
-##### [量子计算](/量子计算quantum_computing)
-##### [其他开源项目](/其他开源项目)
+##### [Python](/Python/README.md)
+##### [NodeJS](/NodeJS/README.md)
+##### [Hacking](/黑客Hacking/README.md)
+##### [机器学习](/机器学习machine_learning/README.md)
+##### [OpenHarmony](/开源鸿蒙OpenHarmony/README.md)
+##### [量子计算](/量子计算quantum_computing/README.md)
+##### [其他开源项目](/其他开源项目/README.md)
 
 ## 其他
 ### 安装教程
