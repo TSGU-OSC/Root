@@ -1,3 +1,5 @@
+
+JavaScript语言并没有其他编程语言意义上的官网，TC39（JS标准委员会）的官网：[tc39.es](http://tc39.es)，[详细教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 ## 包管理器
 
 管理、读取和打包 JavaScript 库的工具。
