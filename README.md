@@ -11,10 +11,14 @@
 
 点击下列标题进入
 
-##### [C/C++](https://gitee.com/Jack__Lau/Root/tree/master/C)
-##### [OpenHarmony](https://gitee.com/Jack__Lau/Root/tree/master/OpenHarmony)
-##### [量子计算](https://gitee.com/Jack__Lau/Root/tree/master/量子计算)
-##### [其他开源项目](https://gitee.com/Jack__Lau/Root/tree/master/其他开源项目)
+##### [C/C++](/C)
+##### [Python](/Python)
+##### [NodeJS](/NodeJS)
+##### [Hacking](/黑客Hacking)
+##### [机器学习](/机器学习machine_learning)
+##### [OpenHarmony](/开源鸿蒙OpenHarmony)
+##### [量子计算](/量子计算quantum_computing)
+##### [其他开源项目](/其他开源项目)
 
 ## 其他
 ### 安装教程
