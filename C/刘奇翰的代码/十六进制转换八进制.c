@@ -26,12 +26,12 @@ int Base_16_10_change(int a,char n[10])
 		{
 			switch(n[i])
 			{
-				case 'A':sum+=11;break;
-				case 'B':sum+=12;break;
-				case 'C':sum+=13;break;
-				case 'D':sum+=14;break;
-				case 'E':sum+=15;break;
-				case 'F':sum+=16;break;
+				case 'A':sum+=10;break;
+				case 'B':sum+=11;break;
+				case 'C':sum+=12;break;
+				case 'D':sum+=13;break;
+				case 'E':sum+=14;break;
+				case 'F':sum+=15;break;
 			}
 		}
 	}
