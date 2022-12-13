@@ -1,0 +1,52 @@
+#include<stdio.h>
+#include<string.h>
+#include<math.h>
+int main()
+{
+	int b=0,i,t,c,j;
+	char a[100];
+	gets(a);
+	t=strlen(a);
+	t=t-1;
+	for(i=0;a[i]!='\0';i++)
+	{
+		if(a[i]>='0'&&a[i]<='9')
+		{
+			j=a[i]-48;
+			c=j*pow(16,t);
+			b=b+c;
+			t=t-1;
+		}
+		if(a[i]>='A'&&a[i]<='F')
+		{
+			j=a[i]-55;
+			c=j*pow(16,t);
+			b=b+c;
+			t=t-1;
+		}
+	}
+	printf("十进制为");
+	printf("\n");
+	printf("%d\n",b);
+	int x,y,m,n=0,k;
+	int p[100];
+	for(x=0;x<100;x++)
+	{
+		y=b%8;
+		b=b/8;
+		p[x]=y;
+		if(b==0)
+		{
+			break;
+		}
+	}
+	printf("八进制为");
+	printf("\n");
+	k=x;
+	for(k;k>=0;k--)
+	{
+		printf("%d",p[k]);
+	}
+    printf("n\");
+	return 0;
+}
