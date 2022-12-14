@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+	int i;
+	char n;
+	char str[100] = { 0 };
+	printf("请输入一个字符串:");
+	gets(str);
+	char* p, * q;
+	printf("请输入你要插入的字符:");
+	scanf("%c", &n);
+	printf("请输入一个插入的指定的位置:");
+	scanf("%d", &i);
+	p = str + i-1;//标记位置
+	q = str + strlen(str);//指向尾部
+	while (q != p)
+	{
+		*q = *(q - 1);//后移
+		q--;
+	}
+	*q = n;//插入
+	puts(str);
+	return 0;
+}
