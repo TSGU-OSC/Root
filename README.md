@@ -11,7 +11,8 @@
 
 点击下列标题进入
 
-##### [C/C++](/C)
+##### [C](/C)
+##### [C++](/C++)
 ##### [Python](/Python/README.md)
 ##### [JavaScript](/JavaScript/README.md)
 ##### [NodeJS](/NodeJS/README.md)
