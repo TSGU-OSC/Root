@@ -1,0 +1,149 @@
+#include<iostream>
+#include<stdlib.h>
+using namespace std;
+#define X  16
+string qizi_1 = "X";//黑方
+string qizi_2 = "O";//白方
+string qipan[X * 2 + 4][X * 2 + 4];
+int i = 0;
+int j = 0;
+void xian_shi_qi_pan()
+{
+	for (j = 1; j <= X * 2 + 2; j++)
+	{
+		for (i = 1; i <= X * 2 + 2; i++)
+		{
+			cout << qipan[i][j];
+		}
+		cout << endl;
+	}
+}
+void fang_ge_qi_pang()//放个棋盘
+{
+	for (j = 1; j <= X * 2 + 2; j++)
+	{
+		for (i = 1; i <= X * 2 + 2; i++)
+		{
+			qipan[i][j] = "  ";
+		}
+	}
+	for (j = 1; j <= X * 2 + 2; j++)//棋盘初始化
+	{
+		for (i = 1; i <= X * 2 + 2; i++)
+		{
+			if (j % 2 == 1 && j <= X * 2 + 2 && i <= X * 2) qipan[i][j] = "—";
+			if (i % 2 == 1 && j % 2 == 0 && i <= X * 2 + 2 && j <= X * 2 + 1) qipan[i][j] = "| ";
+
+		}
+	}
+	xian_shi_qi_pan();
+}
+void fang_ge_qi_zi(int x0, int y0, string& qizi)//放置棋子
+{
+	if (x0 == 0 && y0 == 0) return;//按照提示输入0 0 即此轮弃权，没有落子
+	qipan[x0][y0] = qizi + " ";
+}
+bool pan_duan_shu_yin(string& qizi)//输入棋子，判断此棋子持有方是否赢了
+{
+	for (i = 2; i <= X * 2; i += 2)
+	{
+		for (j = 2; j <= X * 2; j += 2)
+		{
+			if (qipan[i][j] == qipan[i + 2][j] &&
+				qipan[i][j] == qipan[i + 4][j] &&
+				qipan[i][j] == qipan[i + 6][j] &&
+				qipan[i][j] == qipan[i + 8][j] &&
+				qipan[i][j] == qizi + " ")
+				return true;
+			if (qipan[i][j] == qipan[i + 2][j] &&
+				qipan[i][j] == qipan[i + 4][j] &&
+				qipan[i][j] == qipan[i + 6][j] &&
+				qipan[i][j] == qipan[i + 8][j] &&
+				qipan[i][j] == qizi + " ")
+				return true;
+			if (qipan[i][j] == qipan[i + 2][j + 2] &&
+				qipan[i][j] == qipan[i + 4][j + 4] &&
+				qipan[i][j] == qipan[i + 6][j + 6] &&
+				qipan[i][j] == qipan[i + 8][j + 8] &&
+				qipan[i][j] == qizi + " ")
+				return true;
+		}
+	}
+	return false;
+}
+bool shi_fou_you_xiao(int x, int y)//检查落子是否有效，有没有重叠，有没有落到棋盘外面
+{
+	if (qipan[x][y] != "  " && !(x == 0 && y == 0))
+	{
+		cout << "你的落子无效" << endl;
+		return false;
+	}
+	if (x > X * 2 + 1 || x < 0 || y>X * 2 + 1 || y < 0)
+	{
+		cout << "你的落子在棋盘外" << endl;
+		return false;
+	}
+	return true;
+}
+int main()
+{
+	int change = 1;
+	while (change)
+	{
+		cout << "****************************************************************" << endl;
+		cout << "**************请选择游戏****************************************" << endl;
+		cout << "**************0.退出********************************************" << endl;
+		cout << "**************1.电脑vs玩家**************************************" << endl;//目前只做到玩家对玩家
+		cout << "**************2.玩家vs玩家**************************************" << endl;
+		cin >> change;
+		switch (change)
+		{
+		case 1:break;
+		case 2:
+		{
+			int x1, x2, y1, y2;
+			fang_ge_qi_pang();
+			cout << "游戏开始！" << endl;
+			do
+			{
+				cout << "请玩家1(黑子方)输入棋子坐标：(输入0 0即为此轮弃权没有落子)" << endl;
+				cin >> x1 >> y1;//这个坐标是第x1行第y1列，所以下面对应的二维数组下标要反过来
+				while (!shi_fou_you_xiao(y1 * 2, x1 * 2))//判断落子是否有效
+				{
+					cout << "请重新输入坐标：" << endl;
+					cin >> x1 >> y1;
+				}
+				system("cls");
+				fang_ge_qi_zi(y1 * 2, x1 * 2, qizi_1);
+				xian_shi_qi_pan();
+				if (pan_duan_shu_yin(qizi_1))
+				{
+					cout << "游戏已结束，黑方胜" << endl;
+					break;//下完就判断，如果胜负已定就不需要继续下了
+				}
+				cout << "请玩家2(白子方)输入棋子坐标：(输入0 0即为此轮弃权没有落子)" << endl;
+				cin >> x2 >> y2;//这个坐标是第x2行第y2列，所以下面对应的二维数组下标要反过来
+				while (!shi_fou_you_xiao(y2 * 2, x2 * 2))
+				{
+					cout << "请重新输入坐标：" << endl;
+					cin >> x2 >> y2;
+				}
+				system("cls");
+				fang_ge_qi_zi(y2 * 2, x2 * 2, qizi_2);
+				xian_shi_qi_pan();
+				if (pan_duan_shu_yin(qizi_2))
+				{
+					cout << "游戏已结束，白方胜" << endl;
+					break;//下完就判断，如果胜负已定就不需要继续下了
+				}
+			} while ((!pan_duan_shu_yin(qizi_1) == 1 || !pan_duan_shu_yin(qizi_2)));
+		}
+		case 0: break;
+		}
+	}
+
+	system("pause");
+	return 0;
+}
+
+
