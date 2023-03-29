@@ -1,0 +1,74 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
+
+
+class Solution {
+public:
+    //make use of this way,the smallest number can be found in a shorter time.
+    int minNumberInRotateArray(vector<int> rotateArray) 
+    {
+        int l = 0,r = rotateArray.size() - 1 ,mid;
+        while(l<r)
+        {
+            mid=(r+l)/2;
+            if(rotateArray[mid]<rotateArray[r])
+                r=mid;
+            else if(rotateArray[mid]>rotateArray[r])
+                l=mid+1;
+            else --r;
+        }
+        return rotateArray[l];
+    }
+};
+//possible 1
+test01()
+{
+    Solution s;
+    int var;              //           4  5     
+    vector<int> v;      //          3         6
+    v.push_back(5);     //         2           7               
+    v.push_back(6);     //          1         8 
+    v.push_back(7);     //             0   9
+    v.push_back(8); 
+    v.push_back(9);    
+    v.push_back(0);     //the array is placed in the container here
+    v.push_back(1);
+    v.push_back(2);
+    v.push_back(3);
+    v.push_back(4);
+
+    var=s.minNumberInRotateArray(v);
+    cout<<var<<endl;
+}
+//possible 2
+test02()
+{
+    Solution s;
+    int var;            //            3   4     
+    vector<int> v;      //          2        5
+    v.push_back(4);     //         2           6               
+    v.push_back(5);     //          2        7 
+    v.push_back(6);     //             2   8
+    v.push_back(7); 
+    v.push_back(8);    
+    v.push_back(2);     //the array is placed in the container here
+    v.push_back(2);
+    v.push_back(2);
+    v.push_back(2);
+    v.push_back(3);
+
+    var=s.minNumberInRotateArray(v);
+    cout<<var<<endl;
+}
+
+
+
+int main()
+{
+    test01();
+    //test02();
+    system("pause");
+    return 0;
+}
