@@ -1,0 +1,97 @@
+#include<iostream>
+using namespace std;
+#define H 5 //伤害值
+class Gun
+{
+public:
+	int bullets;
+	int shashang;
+	void SetGun(int b, int s)
+	{
+		bullets = b;
+		shashang = s;
+	}
+	void attack()
+	{
+		bullets--;
+	}
+};
+
+class NPC
+{
+public:
+	int health;
+	int shield;//盾牌
+
+	void SetNPC(int h, int s)
+	{
+		health = h + s;
+		shield = s;
+	}
+
+	bool hurt(int h)
+	{
+
+		health = health - H;
+		shield = shield - H;
+		if (health <= 0)
+		{
+			cout << "啊................" << endl;
+			return false;
+		}
+		else
+		{
+			if (shield - H > 0)
+			{
+				cout << "我还有个盾" << endl;
+			}
+			else
+			{
+				cout << "妈呀，太疼了！" << endl;
+			}
+
+			return true;
+		}
+	}
+};
+
+//游戏阶段
+void start()
+{
+	bool iscontinue;
+	Gun g1;
+	NPC n1;
+	g1.SetGun(10, H);//子弹数和子弹伤害
+	n1.SetNPC(120, 30);//怪物的血量和盾的血量
+
+	cout << "弹量:" << g1.bullets << "\n开始射击:" << endl;;
+	g1.attack();
+	cout << "余弹：" << g1.bullets << endl;
+	iscontinue = n1.hurt(H);
+	if (iscontinue == false)
+		exit(0);
+
+	while (true)
+	{
+		//_sleep(1000);//延迟1秒执行后续程序
+		g1.attack();
+		cout << "余弹：" << g1.bullets << endl;
+
+		//if (n1.shield != 0)
+		//	cout << "盾值：" << n1.shield << endl;
+		if (g1.bullets == 0 && n1.health - H != 0)
+		{
+			cout << "嘿嘿，你没子弹了，我死不掉，我还有:" << n1.health - H << "的血量" << endl;
+			break;
+		}
+		iscontinue = n1.hurt(H);
+		if (iscontinue == false)
+			break;
+	}
+}
+
+int main()
+{
+	start();
+	system("pause");
+}
