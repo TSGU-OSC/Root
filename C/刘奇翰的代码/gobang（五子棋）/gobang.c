@@ -1,4 +1,23 @@
 #include "gobang.h"
+#include<stdio.h>
+
+void settinginfo();//欢迎界面
+
+int setting();//功能选择
+
+void exe();//主程序
+
+void black();//黑方下棋
+
+void white();//白方下棋
+
+int gobang_exe();//判断输赢
+
+int gobang_judgement();//检查是否和棋
+
+void gobang_print();//打印棋局
+
+int gobang[15][15]={0};//初始化棋盘
 
 void settinginfo()
 {
@@ -19,9 +38,17 @@ int setting()
     getchar();
     switch(tem)
     {
-        case 1:exe();break;
+        case 1:exe();
+        for(int i=0;i<15;i++)
+        {
+            for(int j=0;j<15;j++)
+            {
+                gobang[i][j]=0;
+            }
+        }
+        return 0;
         case 2:printf("exit successful!\n");return 1;
-        default : printf("error!\n");return 1;
+        default : printf("error!\n");return 0;
     };
 }
 
@@ -168,17 +195,22 @@ int gobang_judgement()
 void exe()
 {
     int temporary=0;
-    for(;temporary!=1&&temporary!=2&&temporary!=3;){
+    do{
         black();
         gobang_print();
-        temporary=gobang_judgement();
         temporary=gobang_exe();
-        if(temporary==1||temporary==2||temporary==3) { return; }
+        if(temporary==1||temporary==2) { break; }
+        temporary=gobang_judgement();
+        if(temporary==3) { return; }
+
         white();
         gobang_print();
+        temporary=gobang_exe();
+        if(temporary==1||temporary==2) { break; }
         temporary=gobang_judgement();
-        temporary=gobang_exe();    
-    }
+        if(temporary==3) { return; }   
+    }while(temporary!=1&&temporary!=2&&temporary!=3);
+
     if(temporary==1) { printf("black win!\n"); }
     if(temporary==2) { printf("white win!\n"); }
 }
@@ -276,3 +308,4 @@ int main()
     while(returnvalue!=1);
     return 0;
 }
+
