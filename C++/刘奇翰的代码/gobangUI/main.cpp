@@ -1,3 +1,4 @@
+//需要安装easyx库
 #include <graphics.h>
 #include <conio.h>
 #include <iostream>
@@ -219,3 +220,19 @@ int main()
         if (IDYES == i)
         {
             tem = true;
+            std::cout << "Play again!" << std::endl;
+            Reset();
+        }
+        else if (IDNO == i)
+        {
+            std::cout << "Exit!" << std::endl;
+            HWND hand1 = GetHWnd();
+            int i = MessageBox(hand1, L"Exiting~", L"message", MB_OK);
+            return 0;
+        }
+    } while (tem);
+    
+    _getch();   
+    closegraph();  
+    return 0;
+}
