@@ -1,4 +1,3 @@
-//需要安装easyx库
 #include <graphics.h>
 #include <conio.h>
 #include <iostream>
@@ -182,7 +181,7 @@ int Judgement()
     }
 }
 
-void EXE()
+int EXE()
 {
     int temporary = 0;
     do {
@@ -190,21 +189,26 @@ void EXE()
         temporary = Gobang_Exe(Black);
         if (temporary == 1 || temporary == 2) { break; }
         temporary = Judgement();
-        if (temporary == 3) { return; }
+        if (temporary == 3) { return 3; }
 
         WhiteSet();
         temporary = Gobang_Exe(White);
         if (temporary == 1 || temporary == 2) { break; }
         temporary = Judgement();
-        if (temporary == 3) { return; }
+        if (temporary == 3) { return 3; }
     } while (temporary != 1 && temporary != 2 && temporary != 3);
 
     if (temporary == 1) 
     { 
         printf("black win!\n");
-        
+        return 1;
     }
-    if (temporary == 2) { printf("white win!\n"); }
+    if (temporary == 2) 
+    { 
+        printf("white win!\n");
+        return 2;
+    }
+    return 0;
 }
 
 int main()
@@ -214,9 +218,15 @@ int main()
     bool tem = false;
     do
     {
-        EXE();
+        int log=EXE();
         HWND hand = GetHWnd();
-        int i = MessageBox(hand, L"Do you wanna play it agin?", L"message", MB_YESNO);
+        int i=0;
+        if(log==1)
+            i = MessageBox(hand, L"Black win!Do you wanna play it agin?", L"message", MB_YESNO);
+        else if(log==2)
+            i = MessageBox(hand, L"White win!Do you wanna play it agin?", L"message", MB_YESNO);
+        else if(log==3)
+            i = MessageBox(hand, L"stalemate!White win!Do you wanna play it agin?", L"message", MB_YESNO);
         if (IDYES == i)
         {
             tem = true;
