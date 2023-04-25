@@ -12,7 +12,7 @@ void WhiteSet();
 
 int Judgement();
 
-void EXE();
+int EXE();
 
 void Reset();
 
