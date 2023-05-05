@@ -6,7 +6,7 @@ using std::endl;
 
 #ifdef _WIN32
 #include<windows.h>
-#elseif
+#else ifdef
 #include<unistd.h>
 #endif
 
