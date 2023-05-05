@@ -1,3 +1,4 @@
+//经过实测 此程序建议大家使用C++14及以上编译版本
 #include <iostream>
 #include <chrono> //这里要用到C++标准库chrono里面的计数器
 
