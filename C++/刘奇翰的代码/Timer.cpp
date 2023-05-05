@@ -1,7 +1,7 @@
 #include <iostream>
 #include <chrono> //这里要用到C++标准库chrono里面的计数器
 
-class Timer//封装成了一个类，可以在测试函数里直接创建一个对象 即可实现计时
+struct Timer//封装成了一个结构体，可以在测试函数里直接创建一个对象，即可实现计时（用struct是因为默认时public）
 {
     std::chrono::time_point<std::chrono::steady_clock> start,end;//定义开始，结束的时间变量
     std::chrono::duration<float> duration;//定义中间的持续时间变量
