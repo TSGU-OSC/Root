@@ -1,12 +1,13 @@
 //用枪射击怪兽，枪可装弹6发，每发弹杀伤力20，怪有血量110，盾牌可格挡10伤害
 #include<iostream>
 
+
 using std::cout;
 using std::endl;
 
 #ifdef _WIN32
 #include<windows.h>
-#else ifdef
+#else
 #include<unistd.h>
 #endif
 
@@ -24,6 +25,7 @@ public:
     int bloodvalue;
     Beast() 
     {}
+    
     void SetBeastBlood(int b)
     {
         bloodvalue=b;
@@ -59,11 +61,22 @@ public:
         if(bloodvalue>0&&bullets>0) 
         {
             bullets--;
-            if(shieldvalue>=hurtvalue) return true;
+            if(shieldvalue>=hurtvalue) 
+            {
+                shieldvalue-=hurtvalue;
+
+                return true;
+            }
             else
             {
-                bloodvalue-=hurtvalue;
-                bloodvalue+=shieldvalue;
+                if(shieldvalue>0)
+                {
+                    bloodvalue-=hurtvalue;
+                    bloodvalue+=shieldvalue;
+                    shieldvalue-=hurtvalue;   
+                }
+                else
+                    bloodvalue-=hurtvalue;
                 return true;
             }   
         }
