@@ -1,11 +1,13 @@
 //用枪射击怪兽，枪可装弹6发，每发弹杀伤力20，怪有血量110，盾牌可格挡10伤害
 #include<iostream>
-#include<unistd.h>
+
 using std::cout;
 using std::endl;
 
 #ifdef _WIN32
-#incldue<windows.h>
+#include<windows.h>
+#elseif
+#include<unistd.h>
 #endif
 
 void sleep_cp(unsigned int seconds){
