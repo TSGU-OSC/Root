@@ -8,9 +8,12 @@
 理论知识请在[Wiki](https://gitee.com/Jack__Lau/Root/wikis)构建
 
 ## 目录
-[基础知识](/基础知识)
+
 
 点击下列标题进入
+[基础知识](/基础知识)
+
+
 |  语言                                 |             服务器/运行环境  | 人工智能                                         | 操作系统  | 其他  |
 |  ----                                 | ----                        |  ----                                           | ----  | ----  |
 | [C](/C)                               | [NodeJS](/NodeJS/README.md) |[机器学习](/机器学习machine_learning/README.md)    | [OpenHarmony](/开源鸿蒙OpenHarmony/README.md) | [Hacking](/黑客Hacking/README.md) |
@@ -43,3 +46,4 @@
 ### 新手注意
 1. 文件名不要用特殊字符
 2. 工程代码必须新建一个文件夹，禁止零散污染目录！
+3. 文件夹下新建一个README.md可作为该文件夹的目录
