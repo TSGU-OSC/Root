@@ -8,21 +8,17 @@
 理论知识请在[Wiki](https://gitee.com/Jack__Lau/Root/wikis)构建
 
 ## 目录
+[基础知识](/基础知识)
 
 点击下列标题进入
+|  语言                                 |             服务器/运行环境  | 人工智能                                         | 操作系统  | 其他  |
+|  ----                                 | ----                        |  ----                                           | ----  | ----  |
+| [C](/C)                               | [NodeJS](/NodeJS/README.md) |[机器学习](/机器学习machine_learning/README.md)    | [OpenHarmony](/开源鸿蒙OpenHarmony/README.md) | [Hacking](/黑客Hacking/README.md) |
+| [C++](/C++)                           | 单元格                       | [量子计算](/量子计算quantum_computing/README.md)                                           | 单元格 | [其他开源项目](/其他开源项目/README.md) |
+| [Python](/Python/README.md)           | 单元格                       | 单元格                                           | 单元格 | 单元格 |
+| [Java](/Java)                         | 单元格                       | 单元格                                           | 单元格 | 单元格 |
+| [JavaScript](/JavaScript/README.md)   | 单元格                       | 单元格                                            | 单元格 | 单元格 |
 
-##### [基础知识](/基础知识)
-##### [C](/C)
-##### [C++](/C++)
-##### [Python](/Python/README.md)
-##### [Java](/Java)
-##### [JavaScript](/JavaScript/README.md)
-##### [NodeJS](/NodeJS/README.md)
-##### [Hacking](/黑客Hacking/README.md)
-##### [机器学习](/机器学习machine_learning/README.md)
-##### [OpenHarmony](/开源鸿蒙OpenHarmony/README.md)
-##### [量子计算](/量子计算quantum_computing/README.md)
-##### [其他开源项目](/其他开源项目/README.md)
 
 ## 其他
 ### 安装教程
