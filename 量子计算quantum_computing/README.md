@@ -39,7 +39,7 @@ MindQuantum是基于昇思MindSpore开源深度学习框架和HiQ量子计算云
 1. 安装MindSpore
 > 小白注意(大佬忽略)，如果之前安装了python请全部卸掉，只安装一个版本即可，主要是防止小白装错地方又不会处理。
 
-安装MindSpore视频教程：[点击观看](https://www.bilibili.com/video/BV13e411P7tT/?share_source=copy_web&vd_source=5cce33ff95191f8ec5e6ea0eb4f41f15)
+win11安装MindSpore视频教程：[点击观看](https://www.bilibili.com/video/BV13e411P7tT/?share_source=copy_web&vd_source=5cce33ff95191f8ec5e6ea0eb4f41f15)
 
 
 2. 安装MindQuantum
