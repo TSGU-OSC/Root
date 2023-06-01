@@ -19,11 +19,14 @@ Git是一种分布式版本控制系统，它可以记录文件的变更历史�
 git config --global user.name "你的用户名"
 git config --global user.email "你的邮箱"
 ```
-
+## 查看信息
+```
+git config --list
+```
 ## 操作仓库
 拉取远程仓库
 ```
-git clone https://gitee.com/Jack__Lau/Root
+git clone https://github.com/JackLau1222/ffmpeg-GUI
 ```
 更新本地仓库(自动同步)
 ```
@@ -67,3 +70,13 @@ git reset --hard <commit_id>
 ```
 git push orgin main --force
 ```
+
+## 查看可用分支
+```
+git branch
+```
+## 切换到可用分支
+```
+git checkout <branch-name>
+```
+
