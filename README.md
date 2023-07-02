@@ -21,7 +21,7 @@
 | [Python](/Python/README.md)           | 单元格                       | 单元格                                           | 单元格 | 单元格 |
 | [Java](/Java)                         | 单元格                       | 单元格                                           | 单元格 | 单元格 |
 | [JavaScript](/JavaScript/README.md)   | 单元格                       | 单元格                                            | 单元格 | 单元格 |
-
+| [HTML](/HTML)   | 单元格                       | 单元格                                            | 单元格 | 单元格 |
 
 ## 其他
 ### 安装教程
