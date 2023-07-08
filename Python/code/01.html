@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        /* 清空标签自带的格式/初始化 ：*{} */
+         * {
+            margin: 0 auto;
+            padding-top: 0;
+            list-style: none;
+            box-sizing: border-box
+        }
+        /* 选择器 */
+        .header {
+            width: 1000px;
+            height: 80px;
+            background-color: chocolate;
+            /* 版心居中   auto：自动   0代表上下间距是0 */
+            margin: 0 auto;
+            /* 顶部内边距 */
+            padding-top: 40px;
+        }
+        /* 导航单词：navy */
+        .daohang {
+            width: 1000px;
+            height: 40px;
+            background-color: darksalmon;
+            margin: 0 auto;
+        }
+        .nav ul {
+            display: flex;
+          
+        }
+        .nav ul li {
+            width: 90px;
+            height: 40px;
+            /* 文字水平居中 */
+            text-align: center;
+            /* 文字垂直居中：高度值和行高值相同 */
+            line-height: 40px;
+        }
+        /* 轮播图单词：banner */
+        .lunbotu {
+            width: 1000px;
+            height: 450px;
+            background-color: lightcoral;
+            margin: 0 auto;
+        }
+        .cont1 {
+            width: 1000px;
+            height: 282px;
+            background-color: rgb(145, 23, 94);
+            margin: 0 auto;
+            /* 让子元素成一行显示   flex:弹性/伸缩布局*/
+            display: flex;
+            /* 两端对齐  justify-content  ; space-between:两端对齐*/
+            justify-content: space-between;
+        }
+        .left {
+            width: 373px;
+            height: 278px;
+            background-color: darkorange;
+        }
+        .right {
+            width: 565px;
+            height: 282px;
+            background-color: darkorange;
+        }
+/* 
+         .cont2 {
+            width: 1000px;
+            height: 240px;
+            background-color: aquamarine;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+        }  */
+        .l1 {
+            width: 196px;
+            height: 240px;
+            background-color: aqua;
+        }
+        .l2 {
+            width: 196px;
+            height: 240px;
+            background-color: rgb(30, 71, 71);
+        }
+        .l3 {
+            width: 196px;
+            height: 240px;
+            background-color: rgb(28, 78, 61);
+        }
+        .l4 {
+            width: 196px;
+            height: 240px;
+            background-color: rgb(13, 228, 156);
+        }
+        .l5 {
+            width: 196px;
+            height: 240px;
+            background-color: rgb(21, 61, 49);
+        } 
+
+
+
+        /* 查找类名称为cont2下的所有的div———后代选择器 */
+        .cont div {
+            width: 1000px;
+            height: 240px;
+            background-color: rgb(214, 127, 13);
+            margin: 0 auto;
+        }
+        .cont2 div {
+            width: 1000px;
+            height: 240px;
+            background-color: blue;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>>
+    <div class="header">头部</div>
+    <img src="img/logo.png" alt="">
+    <div class="daohang">导航</div>
+    <ul>
+        <li>
+        <li>首页</li>
+        <li>关于汉唐</li>
+        <li>新闻中心</li>
+        <li>公司业务</li>
+        <li>企业文化</li>
+        <li>合作交流</li>
+        <li>招贤纳士</li>
+        <li>联系我们</li>
+        </li>
+    </ul>
+    <div class="lunbotu">轮播图</div>
+    <div class="cont1">
+        <!-- 如果要让两个div并排成一行，需要给父级添加属性 -->
+        <div class="cont1"></div>
+        <div class="left"></div>
+        <div class="right"></div>
+    </div>
+    <!-- 第二个容器（1000*240）：包含5个（196*240） -->
+    <div class="cont">
+        <div class="l1"></div>
+        <div class="l2"></div>
+        <div class="l3"></div>
+        <div class="l4"></div>
+        <div class="l5"></div>
+    </div>
+</body>
+</html>
