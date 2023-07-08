@@ -1,0 +1,8 @@
+n1=input('请输入第一个数字')
+n1=int(n1)
+n2=input('请输入第二个数字')
+n2=int(n2)
+n3=input('请输入第三个数字')
+n3=int(n3)
+print(n1+n2+n3)
+print((n1+n2+n3)/3)
