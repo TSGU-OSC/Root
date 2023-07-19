@@ -35,23 +35,28 @@ public:
         return score;
     }
 
-    void display() {//打印学生信息
+    void display() //打印学生信息
+    {
         cout << "Name: " << name << endl;
         cout << "Age: " << age << endl;
         cout << "ID: " << id << endl;
         cout<<"Score:"<<score<<endl;
     }
 
-    void saveToFile(ofstream& file) {//保存学生信息
+    void saveToFile(ofstream& file) //保存学生信息
+    {
         file << name << "\n" << age << "\n" << id <<"\n"<<score<< endl;
     }
-    friend ostream& operator<<(ostream& os, const Student& student) {//重载以便于直接存储类
+
+    friend ostream& operator<<(ostream& os, const Student& student)//重载以便于直接存储类
+    {
         os  << student.name << "\n" << student.age<<"\n"<<student.id<<"\n"<<student.score<<endl;
         return os;
     }
 };
 
-void clearScreen() {//清屏
+void clearScreen() //清屏
+{
     cout << "\033[2J\033[1;1H";
     //system("cls");
 }
@@ -67,7 +72,8 @@ void displayMenu() {
     cout << "Enter your choice: ";
 }
 
-void viewStudents() {//查看全部学生
+void viewStudents() //查看全部学生
+{
     ifstream file("students.txt");
     if (!file) {
         cerr << "No students found." << endl;
@@ -107,7 +113,8 @@ void viewStudents() {//查看全部学生
     file.close();
 }
 
-void addStudent() {//添加学生
+void addStudent() //添加学生
+{
     string name, id;
     string age;
     double score;
@@ -131,7 +138,8 @@ void addStudent() {//添加学生
     cout << "Student added successfully." << endl;
 }
 
-void deleteStudent() {//删除学生
+void deleteStudent() //删除学生
+{
     string currentId;
     cout << "Enter student Id to delete: ";
     cin.ignore();
@@ -162,8 +170,8 @@ void deleteStudent() {//删除学生
         {
             score=stod(line.substr(0));//将内容转化为double类型
             Student student(name,age,id,score);
-            if (student.getId() != currentId&&student.getId()!="") {//将不被删除的学生信息存储到另一个文件
-            outputFile << student;
+            if (student.getId() != currentId&&student.getId()!="") {
+            outputFile << student;  //将不被删除的学生信息存储到另一个文件
         } else {
             found = true;
         }
@@ -186,7 +194,8 @@ void deleteStudent() {//删除学生
     }
 }
 
-void searchStudent() {//查找学生
+void searchStudent() //查找学生
+{
     string currentId;
     cout << "Enter student ID to search: ";
     cin.ignore();
@@ -235,6 +244,7 @@ void searchStudent() {//查找学生
         cout << "Student not found." << endl;
     }
 }
+
 bool cmp_score(Student x,Student y)//判断学生成绩大小
 {
     return x.getScore()>y.getScore();
@@ -261,7 +271,8 @@ int CountLines(char *filename)//查看文件的行数
     }
 }
 
-void sortStudent(){//将学生以成绩从高到低排序
+void sortStudent()//将学生以成绩从高到低排序
+{
     double currentScore;
     ifstream inputFile("students.txt");
     if(!inputFile)
